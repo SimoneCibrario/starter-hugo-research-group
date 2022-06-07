@@ -18,7 +18,7 @@ subtitle: this is a test
 # Section design
 design:
   # Use a 1-column layout
-  columns: "1"
+  columns: "2"
   # Use a dark navy background with light text.
   background:
     color: 'navy'
