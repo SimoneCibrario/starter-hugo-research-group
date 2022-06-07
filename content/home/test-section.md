@@ -25,4 +25,4 @@ design:
     text_color_light: true
 ---
 
-This will be the displayed text
+This will be the displayed text ![testImage](https://static.vecteezy.com/packs/media/components/global/search-explore-nav/img/vectors/term-bg-1-666de2d941529c25aa511dc18d727160.jpg)
