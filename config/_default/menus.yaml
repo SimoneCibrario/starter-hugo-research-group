@@ -22,3 +22,6 @@ main:
   - name: test
     url: contact
     weight: 60
+  - name: testSectionInHome
+    url: /#test-section
+    weight: 70
