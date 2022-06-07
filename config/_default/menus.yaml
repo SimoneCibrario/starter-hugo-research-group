@@ -19,7 +19,7 @@ main:
   - name: Publications
     url: publication
     weight: 50
-  - name: Contact
+  - name: test
     url: contact
     weight: 60
       - name: Projects
