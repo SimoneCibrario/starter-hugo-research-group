@@ -25,4 +25,4 @@ design:
     text_color_light: true
 ---
 
-This will be the displayed text ![testImage](assets/media/coders.jpg)
+This will be the displayed text ![testImage](coders.jpg)
