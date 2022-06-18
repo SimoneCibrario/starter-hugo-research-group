@@ -2,5 +2,5 @@
 title: Projects
 
 # Listing view
-view: compact
+type: Widget_Page
 ---
