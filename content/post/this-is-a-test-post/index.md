@@ -4,6 +4,7 @@ subtitle: let's see what happens
 date: 2022-06-07T10:07:00.373Z
 draft: false
 featured: false
+profile: false
 image:
   filename: featured
   focal_point: Smart
