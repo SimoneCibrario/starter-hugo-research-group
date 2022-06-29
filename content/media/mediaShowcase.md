@@ -15,7 +15,7 @@ content:
     # The folders to display content from
     folders:
       - media
-    tags:
+    tag:
       - podcast
     category: ''
     publication_type: ''
