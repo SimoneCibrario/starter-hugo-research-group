@@ -6,6 +6,7 @@ draft: false
 featured: true
 profile: false
 category: podcast
+tag: podcast
 image:
   filename: featured
   focal_point: Smart
