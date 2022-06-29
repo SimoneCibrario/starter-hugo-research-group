@@ -15,7 +15,7 @@ content:
     # The folders to display content from
     folders:
       - media
-    tag: podcast
+    tag: "podcast"
     category: 'podcast'
     publication_type: ''
     author: ''
