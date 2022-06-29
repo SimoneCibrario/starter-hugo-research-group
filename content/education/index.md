@@ -1,13 +1,5 @@
 ---
 type: widget_page
 title: Education
-
-# Listing view
-active: true
-
-# Optional banner image (relative to `assets/media/` folder).
-banner:
-  caption: ''
-  image: ''
 ---
 this is the test text for the education page
