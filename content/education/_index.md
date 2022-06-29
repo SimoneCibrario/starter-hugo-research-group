@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: Education
 
 # Listing view
 view: compact
