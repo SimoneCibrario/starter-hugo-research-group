@@ -5,8 +5,7 @@ date: 2022-06-07T10:07:33.677Z
 draft: false
 featured: true
 profile: false
-category: podcast
-tag: podcast
+tags: ["podcast"]
 image:
   filename: featured
   focal_point: Smart
