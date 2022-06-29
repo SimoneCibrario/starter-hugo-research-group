@@ -1,5 +1,5 @@
 ---
-title: The first test education
+title: The second test education
 subtitle: we will  do amazing things
 date: 2022-06-07T10:07:33.677Z
 draft: false
