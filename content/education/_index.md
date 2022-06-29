@@ -1,4 +1,5 @@
 ---
+type: widget_page
 title: Education
 
 # Listing view
