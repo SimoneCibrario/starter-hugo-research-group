@@ -4,7 +4,7 @@ headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
 title: Podcasts
-subtitle: ''
+subtitle: they are truly amazing
 
 # Position of this section on the page
 weight: 20
@@ -16,7 +16,7 @@ content:
     folders:
       - media
     tag: ''
-    category: 'podcast'
+    category: podcast
     publication_type: ''
     author: ''
     exclude_featured: false
