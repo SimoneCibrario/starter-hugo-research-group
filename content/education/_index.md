@@ -10,3 +10,4 @@ banner:
   caption: ''
   image: ''
 ---
+this is the test text for the education page
