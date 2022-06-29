@@ -1,9 +1,9 @@
 ---
-title: Latest News
+title: Education
 
 # Listing view
 view: compact
-active: false
+active: true
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
