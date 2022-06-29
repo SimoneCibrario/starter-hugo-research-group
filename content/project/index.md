@@ -1,6 +1,7 @@
 ---
 title: Projects
 subtitle: test subtitle
+active: false
 
 # Listing view
 ---

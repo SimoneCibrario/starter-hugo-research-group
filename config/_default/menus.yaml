@@ -13,15 +13,15 @@ main:
   - name: People
     url: people
     weight: 30
-  - name: another test?
+  - name: Activities
     url: event
     weight: 40
-  - name: why is this weird?
-    url: publication
+  - name: Media
+    url: media
     weight: 50
-  - name: test
-    url: contact
+  - name: Education
+    url: education
     weight: 60
-  - name: Projects
-    url: project
+  - name: Contacts
+    url: contact
     weight: 70
