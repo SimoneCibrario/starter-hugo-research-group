@@ -1,5 +1,5 @@
 ---
-title: Events
+title: Activities
 
 # Listing view
 view: compact
