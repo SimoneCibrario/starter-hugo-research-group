@@ -7,6 +7,7 @@ date_end: 2020-07-27T22:00:00.000Z
 all_day: false
 event: party
 event_url: testEvent
+profile: false
 publishDate: 2020-06-07T10:10:06.985Z
 draft: false
 featured: false
