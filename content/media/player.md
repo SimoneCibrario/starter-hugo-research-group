@@ -20,4 +20,3 @@ design:
 <iframe src="https://anchor.fm/itu-games-research/embed" height="204px" width="1080px" frameborder="0" scrolling="no"></iframe>
 </div>
 
-___
