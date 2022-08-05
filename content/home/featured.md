@@ -4,6 +4,12 @@ title: Latest podcast
 headless: true  # This file represents a page section.
 weight: 50
 
+content:
+  archive:
+    enable: true
+    text: See all activities
+    link: event/
+
 # ... Put Your Section Options Here (title etc.) ...
 
 content:

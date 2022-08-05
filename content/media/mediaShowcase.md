@@ -6,6 +6,12 @@ headless: true  # This file represents a page section.
 title: Latest Podcast
 subtitle: ''
 
+content:
+  archive:
+    enable: false
+    text: See all blog posts
+    link: post/
+
 # Position of this section on the page
 weight: 1
 
