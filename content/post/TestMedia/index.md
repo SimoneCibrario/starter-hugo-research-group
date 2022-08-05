@@ -6,10 +6,11 @@ draft: false
 featured: true
 profile: false
 tags: ["podcast", "media"]
+external-link: https://www.markdownguide.org/basic-syntax/
 image:
   filename: featured
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
 this is a test youtube video to be uploaded here, this is a podcast
 {{< youtube w7Ft2ymGmfc >}}
