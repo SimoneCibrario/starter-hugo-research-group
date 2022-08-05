@@ -3,7 +3,9 @@ title: Example Event
 
 event: Wowchemy Conference
 event_url: https://example.org
+
 profile: false
+share: false
 
 location: Wowchemy HQ
 address:

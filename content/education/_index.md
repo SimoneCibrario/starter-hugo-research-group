@@ -2,7 +2,7 @@
 title: Education
 
 # Listing view
-view: compact
+view: list
 active: true
 
 # Optional banner image (relative to `assets/media/` folder).
