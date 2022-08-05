@@ -1,4 +1,5 @@
 ---
+title: Latest activities
 widget: featured
 headless: true  # This file represents a page section.
 weight: 50
@@ -18,6 +19,11 @@ content:
     category: ''
     publication_type: ''
 design:
+ columns: "1"
+  background:
+    color: 'navy'
+    text_color_light: true
+
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
