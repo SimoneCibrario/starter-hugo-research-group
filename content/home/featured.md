@@ -1,5 +1,6 @@
 ---
 widget: featured
+title: Latest activity
 headless: true  # This file represents a page section.
 weight: 50
 
