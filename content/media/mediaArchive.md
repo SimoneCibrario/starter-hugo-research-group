@@ -15,6 +15,7 @@ content:
   count: 0
   # Page order. Descending (desc) or ascending (asc) date.
   order: desc
+  offset: 1
   # Optionally filter posts by a taxonomy term.
   filters:
     tag: media
