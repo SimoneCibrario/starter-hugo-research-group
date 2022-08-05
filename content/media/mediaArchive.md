@@ -1,6 +1,9 @@
 ---
+widget: pages
+headless: true  # This file represents a page section.
+
+# ... Put Your Section Options Here (title etc.) ...
 widget: featured
-title: podcasts
 headless: true  # This file represents a page section.
 weight: 50
 
@@ -8,14 +11,14 @@ weight: 50
 
 content:
   # Page type to display. E.g. post, event, or publication.
-  page_type: event
+  page_type: post
   # Choose how much pages you would like to display (0 = all pages)
-  count: 1
+  count: 2
   # Page order. Descending (desc) or ascending (asc) date.
   order: desc
   # Optionally filter posts by a taxonomy term.
   filters:
-    tag: ''
+    tag: podcast
     category: ''
     publication_type: ''
 design:
