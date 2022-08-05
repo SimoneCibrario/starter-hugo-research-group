@@ -3,7 +3,7 @@ widget: pages
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Recent Blog Posts
+title: Latest Podcast
 subtitle: ''
 
 # Position of this section on the page
