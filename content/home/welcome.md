@@ -15,7 +15,4 @@ design:
   css_style:
   css_class:
 ---
-
-<br>
-
 Quick description of the center goes here. together with a representative image? In the home we will put exactly what?
