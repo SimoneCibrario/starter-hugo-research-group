@@ -1,4 +1,5 @@
 ---
+ title: Media archive
 widget: pages
 headless: true  # This file represents a page section.
 
@@ -10,7 +11,6 @@ weight: 60
 # ... Put Your Section Options Here (title etc.) ...
 
 content:
-  title: Media archive
   # Page type to display. E.g. post, event, or publication.
   page_type: post
   # Choose how much pages you would like to display (0 = all pages)
