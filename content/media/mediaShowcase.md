@@ -1,29 +1,40 @@
 ---
-title: Latest podcast
-# ... Put Your Section Options Here (title etc.) ...
-widget: featured
+widget: pages
 headless: true  # This file represents a page section.
-weight: 50
 
 # ... Put Your Section Options Here (title etc.) ...
+title: Recent Blog Posts
+subtitle: ''
+
+# Position of this section on the page
+weight: 1
 
 content:
-  # Page type to display. E.g. post, event, or publication.
-  page_type: post
-  # Choose how much pages you would like to display (0 = all pages)
-  count: 1
-  # Page order. Descending (desc) or ascending (asc) date.
-  order: desc
-  # Optionally filter posts by a taxonomy term.
+  # Filter content to display
   filters:
-    tag: podcast
+    # The folders to display content from
+    folders:
+      - post
+    tag: 'podcast'
     category: ''
     publication_type: ''
+    author: ''
+    exclude_featured: false
+    exclude_future: false
+    exclude_past: false
+  # Choose how many pages you would like to display (0 = all pages)
+  count: 1
+  # Choose how many pages you would like to offset by
+  # Useful if you wish to show the first item in the Featured widget
+  offset: 0
+  # Field to sort by, such as Date or Title
+  sort_by: 'Date'
+  sort_ascending: false
 design:
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view:  card
+  # Choose a listing view
+  view: card
+  # Choose how many columns the section has. Valid values: '1' or '2'.
+  columns: '1'
 ---
+
+Check out my recent blog posts below!
