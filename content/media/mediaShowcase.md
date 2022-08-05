@@ -1,16 +1,9 @@
 ---
 title: latest podcast
-widget: pages
-headless: true  # This file represents a page section.
-
 # ... Put Your Section Options Here (title etc.) ...
 widget: featured
 headless: true  # This file represents a page section.
 weight: 50
-
-header:
-  navbar:
-    enable: false
 
 # ... Put Your Section Options Here (title etc.) ...
 
