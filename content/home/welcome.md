@@ -15,4 +15,4 @@ design:
   css_style:
   css_class:
 ---
-Quick description of the center goes here. together with a representative image? In the home we will put exactly what?
+The CDP is a research environment that studies play and its role of shaping the technology and culture in digital societies, from Machine Learning being trained on games to the communities and practices around videogames.
