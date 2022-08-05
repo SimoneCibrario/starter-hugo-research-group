@@ -20,9 +20,9 @@ content:
     publication_type: ''
 design:
  columns: "1"
-  background:
-    color: 'navy'
-    text_color_light: true
+ background:
+  color: 'navy'
+  text_color_light: true
 
   # Toggle between the various page layout types.
   #   1 = List
