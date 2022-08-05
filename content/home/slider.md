@@ -6,7 +6,7 @@ headless: true  # This file represents a page section.
 
 design:
   # Slide height is automatic unless you force a specific height (e.g. '400px')
-  slide_height: ''
+  slide_height: '400'
   is_fullscreen: true
   # Automatically transition through slides?
   loop: true
@@ -16,7 +16,7 @@ design:
 content:
   slides:
     - title: Play and players
-      content: Take a look at what we're working on...
+      content: 
       align: center
       background:
         position: right
@@ -25,7 +25,7 @@ content:
         media: coders.jpg
         fit: contain
     - title: Play and objects
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
+      content: 
       align: left
       background:
         position: center
@@ -34,7 +34,7 @@ content:
         media: contact.jpg
         fit: contain
     - title: Play and nonhumans
-      content: 'Just opened last month!'
+      content: 
       align: right
       background:
         position: center
