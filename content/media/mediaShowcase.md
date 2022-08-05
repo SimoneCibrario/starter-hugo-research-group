@@ -42,6 +42,8 @@ design:
   columns: '1'
 ---
 <br />
-<iframe src="https://anchor.fm/itu-games-research/embed" height="204px" width="1280px" frameborder="0" scrolling="no"></iframe>
+<div style="text-align: center">
+<iframe src="https://anchor.fm/itu-games-research/embed" height="204px" width="1080px" frameborder="0" scrolling="no"></iframe>
+</div>
 
 ___
