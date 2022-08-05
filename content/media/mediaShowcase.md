@@ -8,7 +8,7 @@ widget: featured
 headless: true  # This file represents a page section.
 weight: 50
 
-show_related: false
+show_breadcrumb: false
 
 # ... Put Your Section Options Here (title etc.) ...
 
