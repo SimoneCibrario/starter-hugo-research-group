@@ -3,7 +3,7 @@ title: The first test media
 subtitle: we will  do amazing things
 date: 2022-06-07T10:07:33.677Z
 draft: false
-featured: false
+featured: true
 profile: false
 tags: ["podcast"]
 image:
