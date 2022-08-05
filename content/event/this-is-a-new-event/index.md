@@ -26,7 +26,7 @@ event_url: testEvent
 profile: false
 publishDate: 2020-06-07T10:10:06.985Z
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
