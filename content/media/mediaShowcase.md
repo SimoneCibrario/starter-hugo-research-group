@@ -11,7 +11,7 @@ weight: 50
 
 content:
   # Page type to display. E.g. post, event, or publication.
-  page_type: post
+  page_type: event
   # Choose how much pages you would like to display (0 = all pages)
   count: 1
   # Page order. Descending (desc) or ascending (asc) date.
