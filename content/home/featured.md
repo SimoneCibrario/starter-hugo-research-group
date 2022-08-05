@@ -1,6 +1,4 @@
 ---
-title: latest activities
-subtitle: this is a test
 widget: featured
 headless: true  # This file represents a page section.
 weight: 50
@@ -26,5 +24,4 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view:  card
-  columns: "1"
 ---
