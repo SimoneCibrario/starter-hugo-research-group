@@ -15,7 +15,7 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the group
+    - title: Play and players
       content: Take a look at what we're working on...
       align: center
       background:
@@ -24,7 +24,7 @@ content:
         brightness: 0.7
         media: coders.jpg
         fit: cover
-    - title: Lunch & Learn ☕️
+    - title: Play and objects
       content: 'Share your knowledge with the group and explore exciting new topics together!'
       align: left
       background:
@@ -33,7 +33,7 @@ content:
         brightness: 0.7
         media: contact.jpg
         fit: cover
-    - title: World-Class Semiconductor Lab
+    - title: Play and nonhumans
       content: 'Just opened last month!'
       align: right
       background:
