@@ -41,4 +41,4 @@ design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '1'
 ---
-<iframe src="https://anchor.fm/itu-games-research/embed" height="204px" width="1080px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/itu-games-research/embed" height="204px" width="1280px" frameborder="0" scrolling="no"></iframe>
