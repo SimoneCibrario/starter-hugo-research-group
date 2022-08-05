@@ -13,8 +13,10 @@ content:
   # Filter content to display
   filters:
     # The folders to display content from
-    folders: media
-    tag: podcast
+    folders:
+      - media
+    tag:
+      - podcast
     category: ''
     publication_type: ''
     author: ''
