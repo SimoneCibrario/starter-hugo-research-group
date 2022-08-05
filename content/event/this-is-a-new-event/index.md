@@ -20,7 +20,7 @@ event: party
 #   postcode: '94305'
 #   country: United States
 
-links: false
+share: false
 
 event_url: testEvent
 profile: false
