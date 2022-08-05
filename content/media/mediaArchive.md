@@ -1,5 +1,5 @@
 ---
- title: Media archive
+title: Media archive
 widget: pages
 headless: true  # This file represents a page section.
 
