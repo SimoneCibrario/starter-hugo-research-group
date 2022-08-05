@@ -3,37 +3,29 @@ widget: pages
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Podcasts
-subtitle: they are truly amazing
+widget: featured
+headless: true  # This file represents a page section.
+weight: 50
 
-# Position of this section on the page
-weight: 20
+# ... Put Your Section Options Here (title etc.) ...
 
 content:
-  # Filter content to display
+  # Page type to display. E.g. post, event, or publication.
+  page_type: post
+  # Choose how much pages you would like to display (0 = all pages)
+  count: 1
+  # Page order. Descending (desc) or ascending (asc) date.
+  order: desc
+  # Optionally filter posts by a taxonomy term.
   filters:
-    # The folders to display content from
-    folders:
-      - media
-    tag:
-      - podcast
+    tag: 'podcast'
     category: ''
     publication_type: ''
-    author: ''
-    exclude_featured: false
-    exclude_future: false
-    exclude_past: false
-  # Choose how many pages you would like to display (0 = all pages)
-  count: 10
-  # Choose how many pages you would like to offset by
-  # Useful if you wish to show the first item in the Featured widget
-  offset: 0
-  # Field to sort by, such as Date or Title
-  sort_by: 'Date'
-  sort_ascending: false
 design:
-  # Choose a listing view
-  view: compact
-  # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '1'
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
+  view:  card
 ---
