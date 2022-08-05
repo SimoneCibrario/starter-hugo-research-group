@@ -6,7 +6,6 @@ draft: false
 featured: true
 profile: false
 tags: ["podcast", "media"]
-url: https://www.markdownguide.org/basic-syntax/
 image:
   filename: featured
   focal_point: Smart
