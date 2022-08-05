@@ -18,7 +18,6 @@ content:
     category: ''
     publication_type: ''
 design:
- columns: "2"
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
