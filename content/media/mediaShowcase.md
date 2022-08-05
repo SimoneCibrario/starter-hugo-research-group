@@ -1,5 +1,5 @@
 ---
-title: latest podcast
+title: Latest podcast
 # ... Put Your Section Options Here (title etc.) ...
 widget: featured
 headless: true  # This file represents a page section.
