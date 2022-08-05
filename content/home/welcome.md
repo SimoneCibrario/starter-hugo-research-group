@@ -14,5 +14,12 @@ design:
   # Add custom styles
   css_style:
   css_class:
+  spacing:
+      # Customize the section spacing. Order is top, right, bottom, left.
+      padding: ["200px", "0", "20px", "200"]
 ---
+
+
 The CDP is a research environment that studies play and its role of shaping the technology and culture in digital societies, from Machine Learning being trained on games to the communities and practices around videogames.
+
++++
