@@ -37,9 +37,8 @@ content:
     link: post/
 design:
   # Choose a listing view
-  view: card
+  view: Compact
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '1'
 ---
-
-Check out my recent blog posts below!
+<iframe src="https://anchor.fm/itu-games-research/embed" height="204px" width="800px" frameborder="0" scrolling="no"></iframe>
