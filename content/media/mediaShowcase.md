@@ -7,6 +7,7 @@ headless: true  # This file represents a page section.
 widget: featured
 headless: true  # This file represents a page section.
 weight: 50
+pager: false
 
 # ... Put Your Section Options Here (title etc.) ...
 
