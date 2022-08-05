@@ -1,4 +1,5 @@
 ---
+title: latest podcast
 widget: pages
 headless: true  # This file represents a page section.
 
@@ -6,6 +7,8 @@ headless: true  # This file represents a page section.
 widget: featured
 headless: true  # This file represents a page section.
 weight: 50
+
+show_related: false
 
 # ... Put Your Section Options Here (title etc.) ...
 
