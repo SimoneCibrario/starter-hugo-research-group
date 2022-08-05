@@ -4,12 +4,6 @@ title: Featured activity
 headless: true  # This file represents a page section.
 weight: 50
 
-content:
-  archive:
-    enable: true
-    text: See all activities
-    link: event/
-
 # ... Put Your Section Options Here (title etc.) ...
 
 content:
@@ -24,6 +18,10 @@ content:
     tag: ''
     category: ''
     publication_type: ''
+  archive:
+    enable: true
+    text: See all activities
+    link: event/
 design:
   # Toggle between the various page layout types.
   #   1 = List

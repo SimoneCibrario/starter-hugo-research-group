@@ -5,12 +5,7 @@ headless: true  # This file represents a page section.
 # ... Put Your Section Options Here (title etc.) ...
 title: Latest Podcast
 subtitle: ''
-
-content:
-  archive:
-    enable: false
-    text: See all blog posts
-    link: post/
+  
 
 # Position of this section on the page
 weight: 1
@@ -36,6 +31,10 @@ content:
   # Field to sort by, such as Date or Title
   sort_by: 'Date'
   sort_ascending: false
+  archive:
+    enable: false
+    text: See all blog posts
+    link: post/
 design:
   # Choose a listing view
   view: card
