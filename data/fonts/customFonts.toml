@@ -5,7 +5,7 @@ name = "CDPfonts"
 google_fonts = "font-family: 'Hahmlet', serif; font-family: 'IBM Plex Sans Condensed', sans-serif;"
 
 # Font families
-heading_font = "IBM Plex Sans Condensed"
+heading_font = "Hahmlet"
 body_font = "Hahmlet"
 nav_font = "Hahmlet"
 mono_font = "Hahmlet"
