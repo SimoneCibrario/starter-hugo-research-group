@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: customTheme.toml
+  theme_day: Minimal
   theme_night:
   font: customFonts
   font_size: L
