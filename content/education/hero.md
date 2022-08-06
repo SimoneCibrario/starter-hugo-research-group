@@ -12,13 +12,13 @@ hero_media: ''
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
 #   Remove a link/note by deleting a cta/note block.
 cta:
-  url: 'https://wowchemy.com'
-  label: Get Started
+  url: 'https://en.itu.dk/Programmes/MSc-Programmes/Games'
+  label: Learn more
   icon_pack: fas
-  icon: download
+  icon: square-info
 cta_alt:
-  url: 'https://wowchemy.com'
-  label: View Documentation
+  url: ''
+  label: 
 
 # Note. An optional note to show underneath the links.
 cta_note:
