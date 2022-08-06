@@ -4,8 +4,8 @@ headless: true  # This file represents a page section.
 weight: 10
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Education
-subtitle: Master in Games
+title: Learn more
+subtitle: 
 
 # Hero image (optional). Enter filename of an image in the assets/media/ folder.
 hero_media: ''
@@ -15,7 +15,7 @@ hero_media: ''
 #   Remove a link/note by deleting a cta/note block.
 cta:
   url: 'https://en.itu.dk/Programmes/MSc-Programmes/Games'
-  label: Learn more
+  label: 
   icon_pack: fas
   icon: info-circle
 cta_alt:
