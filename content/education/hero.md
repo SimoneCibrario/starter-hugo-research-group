@@ -8,7 +8,7 @@ title:
 subtitle: 
 
 # Hero image (optional). Enter filename of an image in the assets/media/ folder.
-hero_media: 'ituLogo.png'
+hero_media: ''
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
@@ -33,7 +33,7 @@ design:
     # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
     image_darken: 1
     #  Options are `cover` (default), `contain`, or `actual` size.
-    image_size: cover
+    image_size: actual
     # Options include `left`, `center` (default), or `right`.
     image_position: center
     # Use a fun parallax-like fixed background effect on the desktop? true/false
