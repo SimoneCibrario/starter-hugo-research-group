@@ -2,7 +2,7 @@
 name = "CDPfonts"
 
 # Optional Google font URL
-google_fonts = "font-family: 'Hahmlet', serif; font-family: 'IBM Plex Sans Condensed', sans-serif;"
+google_fonts = "font-family: 'Hahmlet', serif&font-family: 'IBM Plex Sans Condensed', sans-serif;"
 
 # Font families
 heading_font = "Hahmlet"
