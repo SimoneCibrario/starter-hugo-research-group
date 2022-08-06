@@ -1,5 +1,6 @@
 ---
 title: Education
+type: "widget_page"
 
 # Listing view
 view: list
