@@ -22,11 +22,3 @@ Digital play is still being studied using theories from the analog era. The Cent
 The CDPs ambition is to define what it means to study of play in digital societies from a multidisciplinary perspective. Novel phenomena require novel methods and theories, and the purpose of the CDP is to become a reference center in the present and future of play and game studies.
 
 ___
-
-The Center has three focal topics:
-
-• Play and players
-
-• Play and objects
-
-• Play and nonhumans
