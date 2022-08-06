@@ -24,6 +24,4 @@ The CDP is a research environment that studies play and its role of shaping the 
 The CDP creates groundbreaking basic and applied research around:
 
 
-<br />
-
 ___
