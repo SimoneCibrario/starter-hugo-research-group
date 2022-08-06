@@ -8,7 +8,7 @@ title:
 subtitle: 
 
 # Hero image (optional). Enter filename of an image in the assets/media/ folder.
-hero_media: ''
+hero_media: 'ituBanner.jpg'
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
