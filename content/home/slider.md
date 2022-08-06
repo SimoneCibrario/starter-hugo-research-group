@@ -22,7 +22,7 @@ content:
         position: right
         color: '#666'
         brightness: 0.7
-        media: coders.jpg
+        media: ituBannerWide.jpg
         fit:  contain
     - title: Play and objects
       content: 
@@ -31,7 +31,7 @@ content:
         position: center
         color: '#555'
         brightness: 0.7
-        media: contact.jpg
+        media: ituBannerWide.jpg
         fit:  contain
     - title: Play and nonhumans
       content: 
@@ -40,6 +40,6 @@ content:
         position: center
         color: '#333'
         brightness: 0.5
-        media: welcome.jpg
+        media: ituBannerWide.jpg
         fit:  contain
 ---
