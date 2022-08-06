@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "CHARMING"
-summary: "The 'European Training Network for Chemical Engineering Immersive Learning' (CHARMING) sets out to 'develop [...] learning strategies, content and prototypes for the application of games and virtual/augmented reality for motivating, teaching and training children, students and employees in chemistry, chemical engineering and chemical operations.'"
+title: "Creative A.I. Lab"
+summary: "The Creative AI Lab explores how to make machines more adaptive and creative. We combine approaches from computational evolution, deep learning, and crowdsourcing to investigate the potential of more creative forms of AI in robotics, video games, design, and art. Our group tries to answer questions such as: can we make machines that design, create and surprise us? Can we create machines that learn from and work together with humans to solve tasks that neither humans nor machines can solve by themselves?"
 authors: []
 tags: ["ai"]
 categories: []
 date: 2020-11-25T12:49:51+01:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://charming-etn.eu/"
+external_link: "https://game.itu.dk/groups/creativeai/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

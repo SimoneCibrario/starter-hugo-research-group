@@ -1,15 +1,16 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "CHARMING"
-summary: "The 'European Training Network for Chemical Engineering Immersive Learning' (CHARMING) sets out to 'develop [...] learning strategies, content and prototypes for the application of games and virtual/augmented reality for motivating, teaching and training children, students and employees in chemistry, chemical engineering and chemical operations.'"
+title: "Media, Art & Design"
+summary: "Media, Art and Design (MAD) is an interdisciplinary research group focusing on experience design and practice-based research in domains such as media, the creative and cultural industries, art and museums. 
+We recently completed the Horizon 2020 project GIFT, that created a design framework for hybrid museum experiences."
 authors: []
 tags: ["media"]
 categories: []
 date: 2020-11-25T12:49:51+01:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://charming-etn.eu/"
+external_link: "https://pure.itu.dk/portal/da/organisations/media-art-and-design-mad(1a9133fe-b5fa-4851-9bda-5e996c47ecdd).html"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
