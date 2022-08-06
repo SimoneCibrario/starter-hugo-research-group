@@ -1,0 +1,11 @@
+# Font style metadata
+name = "CDPfonts"
+
+# Optional Google font URL
+google_fonts = "font-family: 'Hahmlet', serif; font-family: 'IBM Plex Sans Condensed', sans-serif;"
+
+# Font families
+heading_font = "IBM Plex Sans Condensed"
+body_font = "Hahmlet"
+nav_font = "Hahmlet"
+mono_font = "Roboto Mono"
