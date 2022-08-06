@@ -5,7 +5,7 @@ name = "customFonts"
 google_fonts = "family=hahmlet&family=ibm+plex+sans+condensed:wght@500"
 
 # Font families
-heading_font = "IBM Plex Sans Condensed"
-body_font = "Hahmlet"
-nav_font = "Hahmlet"
-mono_font = "Hahmlet"
+heading_font = "ibm plex sans condensed"
+body_font = "hahmlet"
+nav_font = "hahmlet"
+mono_font = "hahmlet"
