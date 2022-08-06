@@ -8,7 +8,7 @@ active: true
 # Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: ''
-  image: ''
+  image: 'coders.jpg'
 ---
 The CDP supports and curates a Master in Science at ITU.
 
