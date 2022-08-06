@@ -17,6 +17,6 @@ design:
     text_color_light: true
 ---
 <div style="text-align: center">
-<iframe src="https://anchor.fm/itu-games-research/embed" height="204px" width="1080px" frameborder="10" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/itu-games-research/embed" height="160px" width="1080px" frameborder="0" scrolling="no"></iframe>
 </div>
 
