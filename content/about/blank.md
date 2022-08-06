@@ -32,13 +32,15 @@ content:
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove toolbar, delete/comment all instances of `filter_button` below.
- # filter_button:
- #   - name: All
- #     tag: '*'
- #   - name: Deep Learning
- #     tag: Deep Learning
- #   - name: Other
- #     tag: Demo
+  filter_button:
+    - name: Games
+      tag: games
+    - name: AI
+      tag: ai
+    - name: Media
+      tag: media
+    - name: Meta
+      tag: metaverse
 
   # Default filter toolbar button (e.g. 0 corresponds to the first `filter_button` instance above)
   filter_default: 0
@@ -49,5 +51,5 @@ design:
   # Choose a listing view
   view: masonry
   # For Showcase view, flip alternate rows?
-  flip_alt_rows: true
+  flip_alt_rows: false
 ---
