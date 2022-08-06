@@ -8,4 +8,4 @@ google_fonts = "font-family: 'Hahmlet', serif; font-family: 'IBM Plex Sans Conde
 heading_font = "IBM Plex Sans Condensed"
 body_font = "Hahmlet"
 nav_font = "Hahmlet"
-mono_font = "Roboto Mono"
+mono_font = "Hahmlet"
