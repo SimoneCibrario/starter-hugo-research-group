@@ -25,6 +25,10 @@ cta_alt:
 # Note. An optional note to show underneath the links.
 cta_note:
   label: ''
+
+design:
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '2'
 ---
 CDP curates and supports the Master in Games at ITU University of Copenhagen:
 
