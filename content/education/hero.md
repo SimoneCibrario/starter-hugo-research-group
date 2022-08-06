@@ -15,7 +15,7 @@ cta:
   url: 'https://en.itu.dk/Programmes/MSc-Programmes/Games'
   label: Learn more
   icon_pack: fas
-  icon: square-info
+  icon: info
 cta_alt:
   url: ''
   label: 
