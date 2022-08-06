@@ -1,7 +1,7 @@
 ---
 widget: slider  # Use the Slider widget as this page section
 title: The research has 3 focal points
-weight: 5  # Position of this section on the page
+weight: 15  # Position of this section on the page
 active: true  # Publish this section?
 headless: true  # This file represents a page section.
 
@@ -16,31 +16,31 @@ design:
 
 content:
   slides:
-    - title: The application of digital play
-      content: Play and players
+    - title: Play and players
+      content: 
       align: center
       background:
-        position: right
-        color: '#666'
-        brightness: 0.7
-        media: ituBannerWide.jpg
-        fit:  cover
+        gradient_start: '#4bb4e3'
+         gradient_end: '#2b94c3'
+        gradient_angle: 180
+        # Text color (true=light, false=dark, or remove for the dynamic theme color).
+        text_color_light: true
     - title: Play and non objects
       content: 
       align: left
       background:
-        position: center
-        color: '#555'
-        brightness: 0.7
-        media: ituBannerWide.jpg
-        fit:  cover
+        gradient_start: '#4bb4e3'
+         gradient_end: '#2b94c3'
+        gradient_angle: 180
+        # Text color (true=light, false=dark, or remove for the dynamic theme color).
+        text_color_light: true
     - title: Play and nonhumans
       content: 
       align: right
       background:
-        position: center
-        color: '#333'
-        brightness: 0.5
-        media: ituBannerWide.jpg
-        fit:  cover
+        gradient_start: '#4bb4e3'
+         gradient_end: '#2b94c3'
+        gradient_angle: 180
+        # Text color (true=light, false=dark, or remove for the dynamic theme color).
+        text_color_light: true
 ---
