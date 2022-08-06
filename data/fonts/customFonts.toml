@@ -2,10 +2,10 @@
 name = "customFonts"
 
 # Optional Google font URL
-google_fonts = "Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800"
+google_fonts = "font-family: 'Hahmlet', serif;font-family: 'IBM Plex Sans Condensed', sans-serif;"
 
 # Font families
-heading_font = "Open Sans"
-body_font = "Open Sans"
-nav_font = "Open Sans"
+heading_font = "IBM Plex Sans Condensed"
+body_font = "Hahmlet"
+nav_font = "Hahmlet"
 mono_font = "Roboto Mono"
