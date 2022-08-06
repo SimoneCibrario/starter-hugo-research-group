@@ -4,7 +4,7 @@
 title: "CHARMING"
 summary: "The 'European Training Network for Chemical Engineering Immersive Learning' (CHARMING) sets out to 'develop [...] learning strategies, content and prototypes for the application of games and virtual/augmented reality for motivating, teaching and training children, students and employees in chemistry, chemical engineering and chemical operations.'"
 authors: []
-tags: []
+tags: ["media"]
 categories: []
 date: 2020-11-25T12:49:51+01:00
 
