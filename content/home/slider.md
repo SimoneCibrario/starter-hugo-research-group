@@ -6,8 +6,8 @@ headless: true  # This file represents a page section.
 
 design:
   # Slide height is automatic unless you force a specific height (e.g. '400px')
-  slide_height: '200px'
-  is_fullscreen: true
+  slide_height: '400px'
+  is_fullscreen: false
   # Automatically transition through slides?
   loop: true
   # Duration of transition between slides (in ms)
@@ -23,7 +23,7 @@ content:
         color: '#666'
         brightness: 0.7
         media: ituBannerWide.jpg
-        fit:  contain
+        fit:  cover
     - title: Play and objects
       content: 
       align: left
@@ -32,7 +32,7 @@ content:
         color: '#555'
         brightness: 0.7
         media: ituBannerWide.jpg
-        fit:  contain
+        fit:  cover
     - title: Play and nonhumans
       content: 
       align: right
@@ -41,5 +41,5 @@ content:
         color: '#333'
         brightness: 0.5
         media: ituBannerWide.jpg
-        fit:  contain
+        fit:  cover
 ---
