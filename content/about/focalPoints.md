@@ -1,7 +1,7 @@
 ---
 widget: slider  # Use the Slider widget as this page section
 title: The research has 3 focal points
-weight: 5  # Position of this section on the page
+weight: 15  # Position of this section on the page
 active: true  # Publish this section?
 headless: true  # This file represents a page section.
 
