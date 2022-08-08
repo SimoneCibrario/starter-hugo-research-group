@@ -12,7 +12,7 @@ name = "nord"
 
   # Menu
   menu_primary = "#4FAA9D"
-  menu_text = "#361134"
+  menu_text = "#F9FBF2"
   menu_text_active = "#361134"
   menu_title = "#361134"
 
@@ -20,6 +20,28 @@ name = "nord"
   background = "#F9FBF2"
 
   # Home sections
-  home_section_odd = "#F9FBF2"
-  home_section_even = "#F9FBF2"
+  home_section_odd = "#ECEFF4"
+  home_section_even = "#ECEFF4"
+
+[dark]
+
+  # Primary
+  primary = "#ECEFF4"
+
+  link = "#ECEFF4"
+  link_hover = "#EBCB8B"
+  # link_decoration = "underline"
+
+  # Menu
+  menu_primary = "#ECEFF4"
+  menu_text = "#2E3440"
+  menu_text_active = "#5E81AC"
+  menu_title = "#5E81AC"
+
+  # Background
+  background = "#2E3440"
+
+  # Home sections
+  home_section_odd = "#2E3440"
+  home_section_even = "#2E3440"
 
