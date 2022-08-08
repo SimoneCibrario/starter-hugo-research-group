@@ -7,7 +7,6 @@ widget: blank # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 title: Our purpose
 weight: 10 # Order that this section will appear.
-title:
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
