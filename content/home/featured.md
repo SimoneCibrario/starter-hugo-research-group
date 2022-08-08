@@ -38,6 +38,6 @@ design:
     gradient_end: '#361134'
     gradient_angle: 180
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
-    text_color_light: false
+    text_color_light: true
 
 ---
