@@ -30,7 +30,7 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view:  card
-  css_style: 
+  css_style: custom
   css_class: custom
   spacing:
       # Customize the section spacing. Order is top, right, bottom, left.
