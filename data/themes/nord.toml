@@ -4,22 +4,22 @@ name = "nord"
 [light]
 
   # Primary
-  primary = "#2E3440"
+  primary = "#F9FBF2"
 
-  link = "#2E3440"
-  link_hover = "#BF616A"
+  link = "#4FAA9D"
+  link_hover = "#C1F7DC"
   # link_decoration = "underline"
 
   # Menu
-  menu_primary = "#2E3440"
-  menu_text = "#ECEFF4"
+  menu_primary = "#4FAA9D"
+  menu_text = "#F9FBF2"
   menu_text_active = "#88C0D0"
-  menu_title = "#88C0D0"
+  menu_title = "#F9FBF2"
 
   # Background
-  background = "#ECEFF4"
+  background = "#F9FBF2"
 
   # Home sections
-  home_section_odd = "#ECEFF4"
-  home_section_even = "#ECEFF4"
+  home_section_odd = "#F9FBF2"
+  home_section_even = "#F9FBF2"
 
