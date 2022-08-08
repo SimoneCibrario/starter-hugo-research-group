@@ -1,11 +1,13 @@
 # Font style metadata
-name = "cdp"
+name = "garamond"
 
 # Optional Google font URL
-google_fonts = "family=Hahmlet:wght@400;700&family=IBM+Plex+Sans+Condensed:wght@500"
+google_fonts = "family=Cabin+Sketch:wght@400;700&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Inconsolata:wght@200..900"
 
 # Font families
-heading_font = "IBM Plex Sans Condensed"
-body_font = "Hahmlet"
-nav_font = "Hahmlet"
-mono_font = "Hahmlet"
+heading_font = "Cabin Sketch"
+
+body_font = "EB Garamond"
+nav_font = "EB Garamond"
+
+mono_font = "Inconsolata"
