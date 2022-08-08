@@ -5,7 +5,7 @@ name = "nord"
 
   # Primary
   primary = "#F9FBF2"
-  text = "#361134"
+  body = "#361134"
 
   link = "#4FAA9D"
   link_hover = "#361134"
