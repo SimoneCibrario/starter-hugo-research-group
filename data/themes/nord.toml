@@ -7,13 +7,13 @@ name = "nord"
   primary = "#F9FBF2"
 
   link = "#4FAA9D"
-  link_hover = "#C1F7DC"
+  link_hover = "#361134"
   # link_decoration = "underline"
 
   # Menu
   menu_primary = "#4FAA9D"
   menu_text = "#F9FBF2"
-  menu_text_active = "#88C0D0"
+  menu_text_active = "#361134"
   menu_title = "#F9FBF2"
 
   # Background
