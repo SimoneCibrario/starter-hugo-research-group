@@ -5,6 +5,7 @@
 
 widget: blank # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
+title: Our purpose
 weight: 10 # Order that this section will appear.
 title:
 design:
@@ -20,6 +21,6 @@ design:
 
 Digital play is still being studied using theories from the analog era. The Center for Digital Play develops novel theories and methods for the study of digital play. From game-trained Artificial Intelligence, to social communities created around videogames, gamification, esports, or game engines as artistic tools, digital play is an intrinsic yet understudied phenomenon in digital societies.
 The CDPs ambition is to define what it means to study of play in digital societies from a multidisciplinary perspective. Novel phenomena require novel methods and theories, and the purpose of the CDP is to become a reference center in the present and future of play and game studies.
-
+ <br/>
 
 ___
