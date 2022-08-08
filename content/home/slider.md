@@ -22,7 +22,7 @@ content:
         position: right
         color: '#4FAA9D'
         brightness: 0.7
-        media: ituBannerWide.jpg
+        media: 
         fit:  cover
     - title: The application of data science methods
       content: on videogame datasets to create computational models of perception, cognition, and emotion.
@@ -31,7 +31,7 @@ content:
         position: center
         color: '#4FAA9D'
         brightness: 0.7
-        media: ituBannerWide.jpg
+        media: 
         fit:  cover
     - title: The design of human-centered methods
       content: for interacting with mixed initiative creative platforms such as game engines.
@@ -40,7 +40,7 @@ content:
         position: center
         color: '#4FAA9D'
         brightness: 0.5
-        media: ituBannerWide.jpg
+        media: 
         fit:  cover
     - title: The role of play
       content: in shaping mundane practices with digital technologies, from videogames to social media.
@@ -49,7 +49,7 @@ content:
         position: center
         color: '#4FAA9D'
         brightness: 0.5
-        media: ituBannerWide.jpg
+        media: 
         fit:  cover
     - title: The challenges of ubiquitous digital play
       content: to psychological and legal understanding of game consumption and commercialization, from gambling to addiction.
@@ -58,7 +58,7 @@ content:
         position: center
         color: '#4FAA9D'
         brightness: 0.5
-        media: ituBannerWide.jpg
+        media: 
         fit:  cover
     - title: The use of commercial videogames
       content: and playable media in education.
