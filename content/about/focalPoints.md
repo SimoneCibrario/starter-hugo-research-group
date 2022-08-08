@@ -21,26 +21,26 @@ content:
       align: center
       background:
         position: right
-        color: '#666'
+        color: '#361134'
         brightness: 0.7
-        media: ituBannerWide.jpg
+        media: 
         fit:  cover
     - title: Play and non objects
       content: 
       align: left
       background:
         position: center
-        color: '#555'
+        color: '#361134'
         brightness: 0.7
-        media: ituBannerWide.jpg
+        media: 
         fit:  cover
     - title: Play and nonhumans
       content: 
       align: right
       background:
         position: center
-        color: '#333'
+        color: '#361134'
         brightness: 0.5
-        media: ituBannerWide.jpg
+        media: 
         fit:  cover
 ---
