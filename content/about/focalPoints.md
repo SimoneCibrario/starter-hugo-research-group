@@ -21,7 +21,7 @@ content:
       align: center
       background:
         position: right
-        color: '#361134'
+        color: '#4FAA9D'
         brightness: 0.7
         media: 
         fit:  cover
@@ -30,7 +30,7 @@ content:
       align: left
       background:
         position: center
-        color: '#361134'
+        color: '#4FAA9D'
         brightness: 0.7
         media: 
         fit:  cover
@@ -39,8 +39,8 @@ content:
       align: right
       background:
         position: center
-        color: '#361134'
-        brightness: 0.5
+        color: '#4FAA9D'
+        brightness: 0.7
         media: 
         fit:  cover
 ---
