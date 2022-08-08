@@ -1,0 +1,25 @@
+# Theme metadata
+name = "nord"
+
+[light]
+
+  # Primary
+  primary = "#2E3440"
+
+  link = "#2E3440"
+  link_hover = "#BF616A"
+  # link_decoration = "underline"
+
+  # Menu
+  menu_primary = "#2E3440"
+  menu_text = "#ECEFF4"
+  menu_text_active = "#88C0D0"
+  menu_title = "#88C0D0"
+
+  # Background
+  background = "#ECEFF4"
+
+  # Home sections
+  home_section_odd = "#ECEFF4"
+  home_section_even = "#ECEFF4"
+
