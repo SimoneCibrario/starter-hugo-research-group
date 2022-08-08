@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: customtheme
+  theme_day: "CDP"
   theme_night:
-  font: customfonts
+  font: "CDP"
   font_size: L
 
 # SEO
