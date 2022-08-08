@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: "CDP"
+  theme_day: 1950s
   theme_night:
   font: "CDP"
   font_size: L
