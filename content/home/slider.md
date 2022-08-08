@@ -20,7 +20,7 @@ content:
       align: center
       background:
         position: right
-        color: '#666'
+        color: '#4FAA9D'
         brightness: 0.7
         media: ituBannerWide.jpg
         fit:  cover
@@ -29,7 +29,7 @@ content:
       align: left
       background:
         position: center
-        color: '#555'
+        color: '#4FAA9D'
         brightness: 0.7
         media: ituBannerWide.jpg
         fit:  cover
@@ -38,7 +38,7 @@ content:
       align: right
       background:
         position: center
-        color: '#333'
+        color: '#4FAA9D'
         brightness: 0.5
         media: ituBannerWide.jpg
         fit:  cover
@@ -47,7 +47,7 @@ content:
       align: center
       background:
         position: center
-        color: '#333'
+        color: '#4FAA9D'
         brightness: 0.5
         media: ituBannerWide.jpg
         fit:  cover
@@ -56,7 +56,7 @@ content:
       align: left
       background:
         position: center
-        color: '#333'
+        color: '#4FAA9D'
         brightness: 0.5
         media: ituBannerWide.jpg
         fit:  cover
@@ -65,8 +65,8 @@ content:
       align: right
       background:
         position: center
-        color: '#333'
+        color: '#4FAA9D'
         brightness: 0.5
-        media: ituBannerWide.jpg
+        media: 
         fit:  cover
 ---
