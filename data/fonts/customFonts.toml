@@ -1,8 +1,8 @@
 # Font style metadata
-name = "CDP"
+name = "cdp"
 
 # Optional Google font URL
-google_fonts = "family=Hahmlet&family=IBM+Plex+Sans+Condensed:wght@500"
+google_fonts = "family=Hahmlet:wght@400;700&family=IBM+Plex+Sans+Condensed:wght@500"
 
 # Font families
 heading_font = "IBM Plex Sans Condensed"
