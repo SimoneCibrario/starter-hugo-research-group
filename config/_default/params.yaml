@@ -8,7 +8,7 @@
 appearance:
   theme_day: 1950s
   theme_night:
-  font: "cdp"
+  font: "garamond"
   font_size: L
 
 # SEO
