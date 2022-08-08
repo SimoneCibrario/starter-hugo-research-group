@@ -18,6 +18,8 @@ cta:
   label:   learn more
   icon_pack: fas
   icon: 
+  design:
+    text_color_light: false
 cta_alt:
   url: ''
   label: 
@@ -39,6 +41,6 @@ design:
     # Use a fun parallax-like fixed background effect on the desktop? true/false
     image_parallax: false
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
-    text_color_light: false
+    text_color_light: true
 
 ---
