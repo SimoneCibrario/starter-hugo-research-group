@@ -30,8 +30,8 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view:  card
-  css_style: custom
-  css_class: 
+  css_style: 
+  css_class: custom
   spacing:
       # Customize the section spacing. Order is top, right, bottom, left.
       padding: ["100px", "0", "100px", "0"]
