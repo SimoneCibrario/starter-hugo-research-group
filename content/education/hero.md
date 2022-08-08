@@ -18,8 +18,6 @@ cta:
   label:   learn more
   icon_pack: fas
   icon: 
-  design:
-    text_color_light: false
 cta_alt:
   url: ''
   label: 
