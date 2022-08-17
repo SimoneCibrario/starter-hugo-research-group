@@ -16,9 +16,9 @@ design:
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: true
 ---
-
+<div>
 *  The application of digital play to develop creative machines that improve human-computer interactions using <span style="color: #FF4E4E">deep learning</span> methods.
-
+</div>
 <br />
 
 
