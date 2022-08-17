@@ -21,20 +21,24 @@ design:
 
 <br />
 
+<div style="text-align: right">
+
 * The application of data science methods on videogame datasets to create computational models of **perception, cognition, and emotion**.
 
 <br />
+</div>
 
 * The design of human-centered methods for interacting with mixed initiative creative platforms such as **game engines**.
 
 <br />
-
+<div style="text-align: right">
 * The role of play in shaping **mundane practices** with digital technologies, from videogames to social media.
-
+</div>
 <br />
 
 * The challenges of ubiquitous digital play to psychological and legal understanding of game consumption and commercialization, from **gambling to addiction**.
 
 <br />
-
+<div style="text-align: right">
 * The use of commercial videogames and **playable media in education**.
+</div>
