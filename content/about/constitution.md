@@ -24,6 +24,13 @@ The CDPs ambition is to define what it means to study of play in digital societi
  <br />
  
 The Center has three focal topics:
+
+* Play and players
+
+* Play and objects
+
+* Play and nonhumans
+
  <br />
 
 ___

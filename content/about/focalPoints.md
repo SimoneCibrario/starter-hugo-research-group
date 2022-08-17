@@ -1,6 +1,6 @@
 ---
 widget: slider  # Use the Slider widget as this page section
-title: The research has 3 focal points
+title: The Values at the CDP
 weight: 15  # Position of this section on the page
 active: true  # Publish this section?
 headless: true  # This file represents a page section.
@@ -16,7 +16,7 @@ design:
 
 content:
   slides:
-    - title: The application of digital play
+    - title: Inclusivity and Diversity
       content: 
       align: center
       background:
@@ -25,7 +25,7 @@ content:
         brightness: 0.7
         media: 
         fit:  cover
-    - title: Play and non objects
+    - title: Equity
       content: 
       align: left
       background:
@@ -34,7 +34,7 @@ content:
         brightness: 0.7
         media: 
         fit:  cover
-    - title: Play and nonhumans
+    - title: Intellectual development
       content: 
       align: right
       background:
@@ -43,4 +43,22 @@ content:
         brightness: 0.7
         media: 
         fit:  cover
+    - title: Work/Life balance
+    content: 
+    align: center
+    background:
+      position: center
+      color: '#4FAA9D'
+      brightness: 0.7
+      media: 
+      fit:  cover
+    - title: Environmental Responsibility and Sustainability
+    content: 
+    align: right
+    background:
+      position: center
+      color: '#4FAA9D'
+      brightness: 0.7
+      media: 
+      fit:  cover
 ---
