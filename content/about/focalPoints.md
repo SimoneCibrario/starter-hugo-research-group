@@ -17,14 +17,14 @@ design:
 content:
   slides:
     - title: Our values at the CDP
-    content: 
-    align: center
-    background:
-      position: right
-      color: '#02063C'
-      brightness: 0.7
-      media: 
-      fit:  cover
+      content: 
+      align: center
+      background:
+        position: right
+        color: '#02063C'
+        brightness: 0.7
+        media: 
+        fit:  cover
     - title: Inclusivity and Diversity
       content: The Center for Computer Games Research values and promotes diversity in its research, work processes, and hiring practices.
       align: center
