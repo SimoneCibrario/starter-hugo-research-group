@@ -17,7 +17,7 @@ design:
 content:
   slides:
     - title: Inclusivity and Diversity
-      content: 
+      content: The Center for Computer Games Research values and promotes diversity in its research, work processes, and hiring practices.
       align: center
       background:
         position: right
@@ -26,7 +26,7 @@ content:
         media: 
         fit:  cover
     - title: Equity
-      content: 
+      content: The Center for Computer Games Research works towards creating more equality in research and industry, through academic work, public outreach, and industry collaborations.
       align: left
       background:
         position: center
@@ -35,7 +35,7 @@ content:
         media: 
         fit:  cover
     - title: Intellectual development
-      content: 
+      content: The Center for Computer Games Research is an environment where junior scholars can thrive and find support in their intellectual and career development.
       align: right
       background:
         position: center
@@ -44,7 +44,7 @@ content:
         media: 
         fit:  cover
     - title: Work/Life balance
-      content: 
+      content: The Center for Computer Games Research respects and encourages work/life balance, and aspires to create a healthy and inspiring work environment where faculty at all levels, from PhD and part-time lecturers to Full Professors, can thrive.
       align: center
       background:
         position: center
@@ -53,7 +53,7 @@ content:
         media: 
         fit:  cover
     - title: Environmental Responsibility and Sustainability
-      content: 
+      content: The Center for Computer Games Research commits to research, education, and work practices that contribute to the green transition.
       align: right
       background:
         position: center
