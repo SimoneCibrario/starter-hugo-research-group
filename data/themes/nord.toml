@@ -12,7 +12,7 @@ name = "nord"
 
   # Menu
   menu_primary = "#4051FF"
-  menu_text = "#FFFFFF"
+  menu_text = "#FF4E4E"
   menu_text_active = "#361134"
   menu_title = "#FFFFFF"
 
