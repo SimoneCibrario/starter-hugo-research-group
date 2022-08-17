@@ -38,4 +38,4 @@ design:
 
 <br />
 
-* The use of commercial videogames and <span style="color:red">cardinals</span> **playable media in education**.
+* The use of commercial videogames and <span style="color: #FF4E4E"> playable media in education </span>.
