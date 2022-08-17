@@ -30,7 +30,3 @@ The Center has three focal topics:
 * Play and objects
 
 * Play and nonhumans
-
- <br />
-
-___

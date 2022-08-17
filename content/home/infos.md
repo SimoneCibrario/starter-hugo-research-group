@@ -16,29 +16,26 @@ design:
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: true
 ---
-*  The application of digital play to develop creative machines that improve human-computer interactions using <span style="color: #FF4E4E">deep learning</span> methods.
 
-___
+*  The application of digital play to develop creative machines that improve human-computer interactions using **deep learning** methods.
 
-
-* The application of data science methods on videogame datasets to create computational models of <span style="color: #FF4E4E">perception, cognition, and emotion</span>.
-
-___
+<br />
 
 
-* The design of human-centered methods for interacting with mixed initiative creative platforms such as <span style="color: #FF4E4E">game engines</span>.
+* The application of data science methods on videogame datasets to create computational models of **perception, cognition, and emotion**.
 
-___
+<br />
 
+* The design of human-centered methods for interacting with mixed initiative creative platforms such as **game engines**.
 
-* The role of play in shaping  <span style="color: #FF4E4E">mundane practices</span> with digital technologies, from videogames to social media.
+<br />
 
-___
+* The role of play in shaping **mundane practices** with digital technologies, from videogames to social media.
 
+<br />
 
-* The challenges of ubiquitous digital play to psychological and legal understanding of game consumption and commercialization, from <span style="color: #FF4E4E"> gambling to addiction </span>.
+* The challenges of ubiquitous digital play to psychological and legal understanding of game consumption and commercialization, from **gambling to addiction**.
 
-___
+<br />
 
-
-* The use of commercial videogames and <span style="color: #FF4E4E"> playable media in education </span>.
+* The use of commercial videogames and **playable media in education**.
