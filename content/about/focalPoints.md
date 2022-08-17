@@ -21,7 +21,7 @@ content:
       align: center
       background:
         position: right
-        color: '#4FAA9D'
+        color: '#02063C'
         brightness: 0.7
         media: 
         fit:  cover
@@ -30,7 +30,7 @@ content:
       align: left
       background:
         position: center
-        color: '#4FAA9D'
+        color: '#02063C'
         brightness: 0.7
         media: 
         fit:  cover
@@ -39,7 +39,7 @@ content:
       align: right
       background:
         position: center
-        color: '#4FAA9D'
+        color: '#02063C'
         brightness: 0.7
         media: 
         fit:  cover
@@ -48,7 +48,7 @@ content:
     align: center
     background:
       position: center
-      color: '#4FAA9D'
+      color: '#02063C'
       brightness: 0.7
       media: 
       fit:  cover
@@ -57,7 +57,7 @@ content:
     align: right
     background:
       position: center
-      color: '#4FAA9D'
+      color: '#02063C'
       brightness: 0.7
       media: 
       fit:  cover
