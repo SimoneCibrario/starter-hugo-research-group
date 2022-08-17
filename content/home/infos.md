@@ -16,14 +16,10 @@ design:
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: true
 ---
-<div>
 *  The application of digital play to develop creative machines that improve human-computer interactions using <span style="color: #4051FF">deep learning</span> methods.
-</div>
 <br />
 
-<div>
 * The application of data science methods on videogame datasets to create computational models of <span style="color: #4051FF">perception, cognition, and emotion</span>.
-</div>
 <br />
 
 * The design of human-centered methods for interacting with mixed initiative creative platforms such as <span style="color: #4051FF">game engines</span>.
