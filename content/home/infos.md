@@ -42,12 +42,11 @@ design:
 </head>
 <body>
 
-<h2>Two Equal Columns</h2>
 
 <div class="row">
-  <div class="column" style="background-color:#aaa;">
-    <h2>Column 1</h2>
-    <p>Some asd..</p>
+  <div>
+    <h2>The application of digital play</h2>
+    <p>to develop creative machines that improve human-computer interactions using **deep learning** methods.</p>
   </div>
   <div class="column" style="background-color:#bbb;">
     <h2>Column 2</h2>
@@ -62,7 +61,7 @@ design:
 </body>
 </html>
 
-* The application of digital play to develop creative machines that improve human-computer interactions using **deep learning** methods.
+*  
 
 <br />
 
