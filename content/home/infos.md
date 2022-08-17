@@ -8,7 +8,7 @@ subtitle:
 weight: 10  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: '2'
   background:
     gradient_start: '#02063C'
     gradient_end: '#02063C'
@@ -17,28 +17,25 @@ design:
     text_color_light: true
 ---
 
-The application of digital play to develop creative machines that improve human-computer interactions using **deep learning** methods.
+*  The application of digital play to develop creative machines that improve human-computer interactions using **deep learning** methods.
 
 <br />
 
-<div style="text-align: right">
 
-The application of data science methods on videogame datasets to create computational models of **perception, cognition, and emotion**.
-
-<br />
-</div>
-
-The design of human-centered methods for interacting with mixed initiative creative platforms such as **game engines**.
+* The application of data science methods on videogame datasets to create computational models of **perception, cognition, and emotion**.
 
 <br />
-<div style="text-align: right">
-The role of play in shaping **mundane practices** with digital technologies, from videogames to social media.
-</div>
-<br />
 
-The challenges of ubiquitous digital play to psychological and legal understanding of game consumption and commercialization, from **gambling to addiction**.
+* The design of human-centered methods for interacting with mixed initiative creative platforms such as **game engines**.
 
 <br />
-<div style="text-align: right">
-The use of commercial videogames and **playable media in education**.
-</div>
+
+* The role of play in shaping **mundane practices** with digital technologies, from videogames to social media.
+
+<br />
+
+* The challenges of ubiquitous digital play to psychological and legal understanding of game consumption and commercialization, from **gambling to addiction**.
+
+<br />
+
+* The use of commercial videogames and **playable media in education**.
