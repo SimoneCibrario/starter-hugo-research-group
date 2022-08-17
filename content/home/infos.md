@@ -21,9 +21,9 @@ design:
 </div>
 <br />
 
-
+<div>
 * The application of data science methods on videogame datasets to create computational models of <span style="color: #FF4E4E">perception, cognition, and emotion</span>.
-
+</div>
 <br />
 
 * The design of human-centered methods for interacting with mixed initiative creative platforms such as <span style="color: #FF4E4E">game engines</span>.
