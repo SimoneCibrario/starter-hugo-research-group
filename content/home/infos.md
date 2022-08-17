@@ -8,7 +8,7 @@ subtitle:
 weight: 10  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '2'
+  columns: '1'
   background:
     gradient_start: '#02063C'
     gradient_end: '#02063C'
@@ -24,15 +24,15 @@ design:
   box-sizing: border-box;
 }
 
-/* Create two equal columns that floats next to each other */
+
 .column {
   float: left;
-  width: 50%;
+  width: 33%;
   padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
+  height: 300px; 
 }
 
-/* Clear floats after the columns */
+
 .row:after {
   content: "";
   display: table;
@@ -51,6 +51,10 @@ design:
   </div>
   <div class="column" style="background-color:#bbb;">
     <h2>Column 2</h2>
+    <p>Some asd2..</p>
+  </div>
+    <div class="column" style="background-color:#bbb;">
+    <h2>Column 3</h2>
     <p>Some asd2..</p>
   </div>
 </div>
