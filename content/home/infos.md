@@ -17,25 +17,25 @@ design:
     text_color_light: true
 ---
 <div>
-*  The application of digital play to develop creative machines that improve human-computer interactions using <span style="color: #FF4E4E">deep learning</span> methods.
+*  The application of digital play to develop creative machines that improve human-computer interactions using <span style="color: #4051FF">deep learning</span> methods.
 </div>
 <br />
 
 <div>
-* The application of data science methods on videogame datasets to create computational models of <span style="color: #FF4E4E">perception, cognition, and emotion</span>.
+* The application of data science methods on videogame datasets to create computational models of <span style="color: #4051FF">perception, cognition, and emotion</span>.
 </div>
 <br />
 
-* The design of human-centered methods for interacting with mixed initiative creative platforms such as <span style="color: #FF4E4E">game engines</span>.
+* The design of human-centered methods for interacting with mixed initiative creative platforms such as <span style="color: #4051FF">game engines</span>.
 
 <br />
 
-* The role of play in shaping  <span style="color: #FF4E4E">mundane practices</span> with digital technologies, from videogames to social media.
+* The role of play in shaping  <span style="color: #4051FF">mundane practices</span> with digital technologies, from videogames to social media.
 
 <br />
 
-* The challenges of ubiquitous digital play to psychological and legal understanding of game consumption and commercialization, from <span style="color: #FF4E4E"> gambling to addiction </span>.
+* The challenges of ubiquitous digital play to psychological and legal understanding of game consumption and commercialization, from <span style="color: #4051FF"> gambling to addiction </span>.
 
 <br />
 
-* The use of commercial videogames and <span style="color: #FF4E4E"> playable media in education </span>.
+* The use of commercial videogames and <span style="color: #4051FF"> playable media in education </span>.
