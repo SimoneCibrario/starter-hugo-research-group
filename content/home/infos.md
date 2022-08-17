@@ -44,7 +44,7 @@ design:
 
 
 <div class="row">
-  <div>
+  <div class="column">
     <h2>The application of digital play</h2>
     <p>to develop creative machines that improve human-computer interactions using **deep learning** methods.</p>
   </div>
