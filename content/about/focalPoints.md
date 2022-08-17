@@ -44,21 +44,21 @@ content:
         media: 
         fit:  cover
     - title: Work/Life balance
-    content: 
-    align: center
-    background:
-      position: center
-      color: '#02063C'
-      brightness: 0.7
-      media: 
-      fit:  cover
+      content: 
+      align: center
+      background:
+        position: center
+        color: '#02063C'
+        brightness: 0.7
+        media: 
+        fit:  cover
     - title: Environmental Responsibility and Sustainability
-    content: 
-    align: right
-    background:
-      position: center
-      color: '#02063C'
-      brightness: 0.7
-      media: 
-      fit:  cover
+      content: 
+      align: right
+      background:
+        position: center
+        color: '#02063C'
+        brightness: 0.7
+        media: 
+        fit:  cover
 ---
