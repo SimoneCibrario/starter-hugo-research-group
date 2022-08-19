@@ -31,6 +31,8 @@ design:
 
 <br />
 
+<br />
+
 * The role of play in shaping **mundane practices** with digital technologies, from videogames to social media.
 
 <br />
