@@ -20,7 +20,8 @@ design:
 <div class="row">
   <div class="column">
     <h2>Column 1</h2>
-    <p>*  The application of digital play to develop creative machines that improve human-computer interactions using **deep learning** methods.
+    <p>
+    *  The application of digital play to develop creative machines that improve human-computer interactions using **deep learning** methods.
 
 <br />
 
@@ -29,7 +30,8 @@ design:
   </div>
   <div class="column">
     <h2>Column 2</h2>
-    <p>* The design of human-centered methods for interacting with mixed initiative creative platforms such as **game engines**.
+    <p>
+    * The design of human-centered methods for interacting with mixed initiative creative platforms such as **game engines**.
 
 <br />
 
@@ -39,7 +41,8 @@ design:
   </div>
     <div class="column">
     <h2>Column 2</h2>
-    <p>* The challenges of ubiquitous digital play to psychological and legal understanding of games consumption and commercialization, from **gambling to addiction**.
+    <p>
+    * The challenges of ubiquitous digital play to psychological and legal understanding of games consumption and commercialization, from **gambling to addiction**.
 
 <br />
 
