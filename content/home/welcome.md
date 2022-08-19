@@ -11,7 +11,7 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
 ---
-<img src="mainlogodark.png" alt="main logo" class="center">
+<img src="logohome.png" alt="main logo" class="center">
 
 <br/>
 
