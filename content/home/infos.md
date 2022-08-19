@@ -16,6 +16,7 @@ design:
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: true
 ---
+<br />
 
 <div class="columns">
 
