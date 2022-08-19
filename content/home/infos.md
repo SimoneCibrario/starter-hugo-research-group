@@ -32,9 +32,9 @@ design:
     <h2></h2>
     <p>
       <ul>
-        <li>The application of digital play to develop creative machines that improve human-computer interactions using deep learning methods.</li>
+        <li>The design of human-centered methods for interacting with mixed initiative creative platforms such as game engines.</li>
         <br>
-        <li>The application of data science methods on videogame datasets to create computational models of perception, cognition, and emotion.</li>
+        <li>The role of play in shaping mundane practices with digital technologies, from videogames to social media.</li>
       </ul>
     </p>
   </div>
@@ -42,9 +42,9 @@ design:
     <h2></h2>
     <p>
       <ul>
-        <li>The application of digital play to develop creative machines that improve human-computer interactions using deep learning methods.</li>
+        <li>The challenges of ubiquitous digital play to psychological and legal understanding of game consumption and commercialization, from gambling to addiction.</li>
         <br>
-        <li>The application of data science methods on videogame datasets to create computational models of perception, cognition, and emotion.</li>
+        <li>The use of commercial videogames and playable media in education.</li>
       </ul>
     </p>
   </div>
