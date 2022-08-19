@@ -26,7 +26,6 @@ design:
 
 * The application of data science methods on videogame datasets to create computational models of **perception, cognition, and emotion**.
 
-<br />
 
 * The design of human-centered methods for interacting with mixed initiative creative platforms such as **game engines**.
 
