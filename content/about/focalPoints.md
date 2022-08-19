@@ -32,7 +32,7 @@ content:
         position: right
         color: '#02063C'
         brightness: 0.7
-        media: 
+        media: "testbanner.png"
         fit:  cover
     - title: Equity
       content: The Center for Computer Games Research works towards creating more equality in research and industry, through academic work, public outreach, and industry collaborations.
