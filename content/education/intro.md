@@ -7,16 +7,11 @@ title: purpose
 title: Education
 subtitle: Master in Games
 weight: 1  # section position on page
-image:
-  placement: 1
-  caption: ""
-  focal_point: "Center"
-  preview_only: false
-  alt_text: Master logo.
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
 ---
+![Master logo](MG_signature-inverted@pt2.png "")
 CDP curates and supports the Master in Games at ITU University of Copenhagen:
 
 Based on a solid foundation of creative, technical, social, and analytical competences, you will realize the playful experiences of tomorrow. By understanding the complex creative process of game production, and how professional development teams work together, you will be able to make a difference in any project that uses game technology or playful design elements.
