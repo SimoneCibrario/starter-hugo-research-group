@@ -11,8 +11,6 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
 ---
-![Master signature](MG_signature@pt2.png "")
-
 <html>
 <head>
 <style>
@@ -23,9 +21,7 @@ div {text-align: center;}
 </head>
 <body>
 
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
-<div>This is a div.</div>
+<p>![Master signature](MG_signature@pt2.png "")</p>
 
 </body>
 </html>
