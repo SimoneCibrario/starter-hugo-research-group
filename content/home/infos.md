@@ -28,8 +28,6 @@ design:
 
 <br />
 
-<br />
-
 * The design of human-centered methods for interacting with mixed initiative creative platforms such as **game engines**.
 
 <br />
