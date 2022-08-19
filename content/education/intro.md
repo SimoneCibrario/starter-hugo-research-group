@@ -12,7 +12,7 @@ design:
   columns: '1'
 ---
 
-<img src="testWebSite\starter-hugo-research-group\assets\media\MG_signature@pt2.png" alt="master logo" class="center">
+<img src="\starter-hugo-research-group\assets\media\MG_signature@pt2.png" alt="master logo" class="center">
 
 
 CDP curates and supports the Master in Games at ITU University of Copenhagen.
