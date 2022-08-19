@@ -6,7 +6,7 @@ title: purpose
 # ... Put Your Section Options Here (title etc.) ...
 title: Education
 subtitle: Master in Games
-weight: 1  # section position on page
+weight: 10  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
