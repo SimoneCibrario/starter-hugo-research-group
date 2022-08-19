@@ -35,7 +35,7 @@ design:
 
 * The role of play in shaping **mundane practices** with digital technologies, from videogames to social media.
 
-* The challenges of ubiquitous digital play to psychological and legal understanding of game consumption and commercialization, from **gambling to addiction**.
+* The challenges of ubiquitous digital play to psychological and legal understanding of games, from **gambling to addiction**.
 
 <br />
 
