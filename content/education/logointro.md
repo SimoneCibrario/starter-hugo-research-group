@@ -7,7 +7,7 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 5 # Order that this section will appear.
 title:
-hero_media: mainlogodark.png
+hero_media: MG_signature@pt2.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -16,7 +16,7 @@ design:
   css_class:
   spacing:
       # Customize the section spacing. Order is top, right, bottom, left.
-      padding: ["100px", "0", "100px", "0"]
+      padding: ["0", "0", "0", "0"]
 ---
 
-The CDP is a research environment that studies play and its role of shaping the technology and culture in digital societies, from Machine Learning being trained on games to the communities and practices around videogames.
+CDP curates and supports the Master in Games at ITU University of Copenhagen:
