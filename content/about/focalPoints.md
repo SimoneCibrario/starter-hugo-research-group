@@ -7,12 +7,12 @@ headless: true  # This file represents a page section.
 
 design:
   # Slide height is automatic unless you force a specific height (e.g. '400px')
-  slide_height: ''
+  slide_height: '400px'
   is_fullscreen: false
   # Automatically transition through slides?
   loop: true
   # Duration of transition between slides (in ms)
-  interval: 5000
+  interval: 0
 
 content:
   slides:
@@ -29,7 +29,7 @@ content:
       content: The Center for Computer Games Research values and promotes diversity in its research, work processes, and hiring practices.
       align: center
       background:
-        position: left
+        position: right
         color: '#02063C'
         brightness: 1
         media: "TestBanner.png"
