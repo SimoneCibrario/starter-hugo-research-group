@@ -17,6 +17,8 @@ design:
     text_color_light: true
 ---
 
+<div class="columns">
+
 *  The application of digital play to develop creative machines that improve human-computer interactions using **deep learning** methods.
 
 <br />
@@ -39,3 +41,5 @@ design:
 <br />
 
 * The use of commercial videogames and **playable media in education**.
+
+</div>
