@@ -5,11 +5,11 @@ title: purpose
 
 # ... Put Your Section Options Here (title etc.) ...
 title: Education
-subtitle: Master in Games
+subtitle: 
 weight: 1  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: '2'
 ---
 ![Master logo](MG_signature@pt2.png "")
 CDP curates and supports the Master in Games at ITU University of Copenhagen:
