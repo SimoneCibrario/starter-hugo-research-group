@@ -20,9 +20,12 @@ design:
 <div class="row">
   <div class="column">
     <h2></h2>
-    <p>The application of digital play to develop creative machines that improve human-computer interactions using deep learning methods.
-
-  The application of data science methods on videogame datasets to create computational models of perception, cognition, and emotion.</p>
+    <p>
+      <ul>
+        <li>The application of digital play to develop creative machines that improve human-computer interactions using deep learning methods.</li>
+        <li>The application of data science methods on videogame datasets to create computational models of perception, cognition, and emotion.</li>
+      </ul>
+  </p>
   </div>
   <div class="column">
     <h2></h2>
