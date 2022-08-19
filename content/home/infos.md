@@ -20,39 +20,33 @@ design:
 <div class="row">
   <div class="column">
     <h2>Column 1</h2>
-    <p>Some text..</p>
+    <p>*  The application of digital play to develop creative machines that improve human-computer interactions using **deep learning** methods.
+
+<br />
+
+
+* The application of data science methods on videogame datasets to create computational models of **perception, cognition, and emotion**.</p>
   </div>
   <div class="column">
     <h2>Column 2</h2>
-    <p>Some text..</p>
+    <p>* The design of human-centered methods for interacting with mixed initiative creative platforms such as **game engines**.
+
+<br />
+
+<br />
+
+* The role of play in shaping **mundane practices** with digital technologies, from videogames to social media.</p>
   </div>
     <div class="column">
     <h2>Column 2</h2>
-    <p>Some text..</p>
+    <p>* The challenges of ubiquitous digital play to psychological and legal understanding of games consumption and commercialization, from **gambling to addiction**.
+
+<br />
+
+* The use of commercial videogames and **playable media in education**.</p>
   </div>
 </div>
 
-<br />
 
 
-*  The application of digital play to develop creative machines that improve human-computer interactions using **deep learning** methods.
 
-<br />
-
-
-* The application of data science methods on videogame datasets to create computational models of **perception, cognition, and emotion**.
-
-
-* The design of human-centered methods for interacting with mixed initiative creative platforms such as **game engines**.
-
-<br />
-
-<br />
-
-* The role of play in shaping **mundane practices** with digital technologies, from videogames to social media.
-
-* The challenges of ubiquitous digital play to psychological and legal understanding of games consumption and commercialization, from **gambling to addiction**.
-
-<br />
-
-* The use of commercial videogames and **playable media in education**.
