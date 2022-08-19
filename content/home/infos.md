@@ -22,7 +22,9 @@ design:
     <h2></h2>
     <p>
       <ul>
-        <li>The application of digital play to develop creative machines that improve human-computer interactions using deep learning methods.</li>
+        <li>The application of digital play to develop creative machines that improve human-computer interactions using deep learning methods.
+        
+        </li>
         <li>The application of data science methods on videogame datasets to create computational models of perception, cognition, and emotion.</li>
       </ul>
   </p>
