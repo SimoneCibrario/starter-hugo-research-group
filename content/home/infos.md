@@ -34,6 +34,7 @@ design:
       <ul>
         <li>The design of human-centered methods for interacting with mixed initiative creative platforms such as game engines.</li>
         <br>
+        <br>
         <li>The role of play in shaping mundane practices with digital technologies, from videogames to social media.</li>
       </ul>
     </p>
@@ -42,7 +43,7 @@ design:
     <h2></h2>
     <p>
       <ul>
-        <li>The challenges of ubiquitous digital play to psychological and legal understanding of game consumption and commercialization, from gambling to addiction.</li>
+        <li>The challenges of ubiquitous digital play to psychological and legal understanding of games, from gambling to addiction.</li>
         <br>
         <li>The use of commercial videogames and playable media in education.</li>
       </ul>
