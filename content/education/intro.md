@@ -7,6 +7,12 @@ title: purpose
 title: Education
 subtitle: Master in Games
 weight: 1  # section position on page
+image:
+  placement: 1
+  caption: ""
+  focal_point: "Center"
+  preview_only: false
+  alt_text: Master logo.
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
