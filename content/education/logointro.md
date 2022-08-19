@@ -1,6 +1,6 @@
 ---
 widget: blank
-headless: false
+headless: true
 title: 
 header:
   image: "MG_signature@pt2.png"
