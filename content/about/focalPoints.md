@@ -29,7 +29,7 @@ content:
       content: The Center for Computer Games Research values and promotes diversity in its research, work processes, and hiring practices.
       align: center
       background:
-        position: right
+        position: left
         color: '#02063C'
         brightness: 1
         media: "TestBanner.png"
