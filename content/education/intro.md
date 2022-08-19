@@ -11,20 +11,9 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
 ---
-<html>
-<head>
-<style>
-h1 {text-align: center;}
-p {text-align: center;}
-div {text-align: center;}
-</style>
-</head>
-<body>
 
-<p>![Master signature](MG_signature@pt2.png "")</p>
+<img src="MG_signature@pt2.png" alt="master logo" class="center">
 
-</body>
-</html>
 
 CDP curates and supports the Master in Games at ITU University of Copenhagen.
 Based on a solid foundation of creative, technical, social, and analytical competences, you will realize the playful experiences of tomorrow. By understanding the complex creative process of game production, and how professional development teams work together, you will be able to make a difference in any project that uses game technology or playful design elements.
