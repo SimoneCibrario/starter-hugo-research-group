@@ -12,7 +12,7 @@ design:
   # Automatically transition through slides?
   loop: true
   # Duration of transition between slides (in ms)
-  interval: 0
+  interval: 5000
 
 content:
   slides:
