@@ -31,7 +31,7 @@ content:
       background:
         position: right
         color: '#02063C'
-        brightness: 0.7
+        brightness: 1
         media: "TestBanner.png"
         fit:  cover
     - title: Equity

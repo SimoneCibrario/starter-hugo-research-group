@@ -16,9 +16,20 @@ design:
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: true
 ---
+
+<div class="row">
+  <div class="column" style="background-color:#aaa;">
+    <h2>Column 1</h2>
+    <p>Some text..</p>
+  </div>
+  <div class="column" style="background-color:#bbb;">
+    <h2>Column 2</h2>
+    <p>Some text..</p>
+  </div>
+</div>
+
 <br />
 
-<div class="columns">
 
 *  The application of digital play to develop creative machines that improve human-computer interactions using **deep learning** methods.
 
@@ -41,5 +52,3 @@ design:
 <br />
 
 * The use of commercial videogames and **playable media in education**.
-
-</div>
