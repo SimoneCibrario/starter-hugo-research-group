@@ -2,9 +2,8 @@
 widget: blank
 headless: true
 title: 
-header:
-  image: "MG_signature@pt2.png"
-  caption: ""
+image: "MG_signature@pt2.png"
+
 
 
 # ... Put Your Section Options Here (title etc.) ...
