@@ -45,7 +45,7 @@ design:
   </div>
   <div class="column">
     <h2></h2>
-    <p style="color:white;">
+    <p style="color:white; text-align: right;">
         The application of data science methods on videogame datasets to create computational models of <strong>perception, cognition, and emotion.</strong>
     </p>
   </div>
