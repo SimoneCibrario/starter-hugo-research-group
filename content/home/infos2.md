@@ -24,7 +24,7 @@ design:
         The application of digital play to develop creative machines that improve human-computer interactions using <strong>deep learning</strong> methods.
     </p>
   </div>
-  <div class="column2">
+  <div class="column2img">
     <h2></h2>
     <p>
         {{< figure src="coders.jpg" caption="" numbered="false" >}}
