@@ -96,7 +96,7 @@ design:
   <div class="column2">
     <h2></h2>
     <p></p>
-    <img src="../../assets/media/coders.jpg" alt="drawing" width="50%"/>
+    <img src="../../assets/media/icon.png" alt="drawing" width="50%"/>
   </div>
   <div class="column2">
     <h2></h2>
