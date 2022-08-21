@@ -1,22 +1,34 @@
 ---
+# An instance of the Blank widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
 widget: blank
-headless: true
+
+# Activate this widget? true/false
 active: true
 
-# ... Put Your Section Options Here (title etc.) ...
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 1
+
 title:
 subtitle:
-weight: 1  # section position on page
+
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
+  background:
+    image: mainlogodark.png
+    image_darken: 0
+    image_parallax: false
+    image_position: center
+    image_size: cover
+    text_color_light: true
+  spacing:
+    padding: ['20px', '0', '20px', '0']
+advanced:
+  css_class: fullscreen
 ---
-
-
-<p style="font-size: 2em; width: 100%;">
-
-{{< figure src="BGhome.png" caption="" numbered="false" >}}
-
 The CDP is a research environment that studies play and its role of shaping the technology and culture in digital societies, from Machine Learning being trained on games to the communities and practices around videogames.
-</p>
+
 
