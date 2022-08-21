@@ -11,11 +11,12 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
 ---
-<div style="width: 100%;">
-{{< figure src="BGhome.png" caption="" numbered="false" >}}
-</div>
 
-<p style="font-size: 2em;">
+
+<p style="font-size: 2em; width: 100%;">
+
+{{< figure src="BGhome.png" caption="" numbered="false" >}}
+
 The CDP is a research environment that studies play and its role of shaping the technology and culture in digital societies, from Machine Learning being trained on games to the communities and practices around videogames.
 </p>
 
