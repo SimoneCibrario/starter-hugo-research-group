@@ -95,8 +95,8 @@ design:
 <div class="row">
   <div class="column2">
     <h2></h2>
-    <p>
-        <img src="../../assets/media/coders.jpg" alt="drawing" width="50%"/>    </p>
+    <p></p>
+    <img src="../../assets/media/coders.jpg" alt="drawing" width="50%"/>
   </div>
   <div class="column2">
     <h2></h2>
@@ -105,5 +105,3 @@ design:
     </p>
   </div>
 </div>
-
- <img src="coders2.jpg" alt="drawing"/>
