@@ -103,7 +103,7 @@ design:
 <br>
 
 <div class="row", style="background-color:#02063C; border-radius: 10px;">
-  <div class="column2img">
+  <div class="column2img", style="background-color:#white;>
     <h2></h2>
     <p></p>
      {{< figure src="coders.jpg" caption="" numbered="false" >}}
