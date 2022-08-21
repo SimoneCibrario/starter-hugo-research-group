@@ -117,5 +117,3 @@ design:
     </p>
   </div>
 </div>
-
-<img src="ituLogo.png" alt="master logo" class="center">
