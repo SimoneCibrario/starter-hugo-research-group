@@ -29,7 +29,7 @@ design:
   <div class="column">
     <h2></h2>
     <p>
-        {{< figure src="coders.jpg" caption="" numbered="false" >}}
+     {{< figure src="CAIL_colour@pt2.png" caption="" numbered="false" >}}
     </p>
   </div>
 </div>
@@ -40,7 +40,7 @@ design:
   <div class="column">
     <h2></h2>
     <p>
-        {{< figure src="coders.jpg" caption="" numbered="false" >}}
+     {{< figure src="CAIL_colour@pt2.png" caption="" numbered="false" >}}
     </p>
   </div>
   <div class="column">
@@ -63,7 +63,7 @@ design:
   <div class="column">
     <h2></h2>
     <p>
-        {{< figure src="coders.jpg" caption="" numbered="false" >}}
+     {{< figure src="CAIL_colour@pt2.png" caption="" numbered="false" >}}
     </p>
   </div>
 </div>
@@ -74,7 +74,7 @@ design:
   <div class="column">
     <h2></h2>
     <p>
-        {{< figure src="coders.jpg" caption="" numbered="false" >}}
+     {{< figure src="CAIL_colour@pt2.png" caption="" numbered="false" >}}
     </p>
   </div>
   <div class="column">
@@ -97,7 +97,7 @@ design:
   <div class="column">
     <h2></h2>
     <p>
-        {{< figure src="coders.jpg" caption="" numbered="false" >}}
+     {{< figure src="CAIL_colour@pt2.png" caption="" numbered="false" >}}
     </p>
   </div>
 </div>
@@ -108,7 +108,7 @@ design:
   <div class="column">
     <h2></h2>
     <p></p>
-     {{< figure src="coders.jpg" caption="" numbered="false" >}}
+     {{< figure src="CAIL_colour@pt2.png" caption="" numbered="false" >}}
   </div>
   <div class="column">
     <h2></h2>
