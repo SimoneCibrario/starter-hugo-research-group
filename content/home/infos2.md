@@ -93,10 +93,10 @@ design:
 </div>
 
 <div class="row">
-  <div class="column2">
+  <div class="column2img">
     <h2></h2>
     <p></p>
-    <img src="../../assets/media/icon.png" alt="drawing" width="50%"/>
+     {{< figure src="coders.jpg" caption="" numbered="false" >}}
   </div>
   <div class="column2">
     <h2></h2>
@@ -105,5 +105,3 @@ design:
     </p>
   </div>
 </div>
-
-<img src="../../assets/media/icon.png" alt="master logo" class="center">
