@@ -43,7 +43,7 @@ design:
   </div>
   <div class="column2">
     <h2></h2>
-    <p>
+    <p style="color:white;">
         The application of data science methods on videogame datasets to create computational models of <strong>perception, cognition, and emotion.</strong>
     </p>
   </div>
@@ -73,7 +73,7 @@ design:
   </div>
   <div class="column2">
     <h2></h2>
-    <p>
+    <p style="color:white;">
         The role of play in shaping mundane practices with digital technologies, from <strong>videogames to social media</strong>.
     </p>
   </div>
@@ -102,7 +102,7 @@ design:
   </div>
   <div class="column2">
     <h2></h2>
-    <p>
+    <p style="color:white;">
         The use of commercial videogames and playable media in <strong>education</strong>.
     </p>
   </div>
