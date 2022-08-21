@@ -20,9 +20,9 @@ design:
 <br>
 
 <div class="row", style="background-color:#02063C; border-radius: 10px;   box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 12px 40px 0 rgba(0, 0, 0, 0.19);">
-  <div class="column">
+  <div class="column", style="background-color:white; border-radius: 10px;">
     <h2></h2>
-    <p style="background-color:white;">
+    <p style="color:black;">
         The application of digital play to develop creative machines that improve human-computer interactions using <strong>deep learning</strong> methods.
     </p>
   </div>
