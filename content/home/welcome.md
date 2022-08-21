@@ -12,7 +12,7 @@ design:
   columns: '1'
   background:
     # Name of image in `assets/media/`.
-    image: mainlogodark.png
+    image: BGhome.png
     # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
     image_darken: 1
     #  Options are `cover` (default), `contain`, or `actual` size.
@@ -26,6 +26,30 @@ design:
 
 ---
 
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
 <h2>
 The CDP is a research environment that studies play and its role of shaping the technology and culture in digital societies, from Machine Learning being trained on games to the communities and practices around videogames.
 </h2>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
