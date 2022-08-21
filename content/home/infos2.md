@@ -17,7 +17,7 @@ design:
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: false
 ---
-<div class="row">
+<div class="row", style="background-color:#02063C; border-radius: 10px;   box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 12px 40px 0 rgba(0, 0, 0, 0.19);">
   <div class="column2">
     <h2></h2>
     <p style="color:white;">
@@ -34,7 +34,7 @@ design:
 
 <br>
 
-<div class="row", style="background-color:#02063C; border-radius: 10px;">
+<div class="row", style="background-color:#02063C; border-radius: 10px;   box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 12px 40px 0 rgba(0, 0, 0, 0.19);">
   <div class="column2img">
     <h2></h2>
     <p>
@@ -51,7 +51,7 @@ design:
 
 <br>
 
-<div class="row", style="background-color:#02063C; border-radius: 10px;">
+<div class="row", style="background-color:#02063C; border-radius: 10px;   box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 12px 40px 0 rgba(0, 0, 0, 0.19);">
   <div class="column2">
     <h2></h2>
     <p style="color:white;">
@@ -68,7 +68,7 @@ design:
 
 <br>
 
-<div class="row", style="background-color:#02063C; border-radius: 10px;">
+<div class="row", style="background-color:#02063C; border-radius: 10px;   box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 12px 40px 0 rgba(0, 0, 0, 0.19);">
   <div class="column2img">
     <h2></h2>
     <p>
@@ -85,7 +85,7 @@ design:
 
 <br>
 
-<div class="row", style="background-color:#02063C; border-radius: 10px;">
+<div class="row", style="background-color:#02063C; border-radius: 10px;   box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 12px 40px 0 rgba(0, 0, 0, 0.19);">
   <div class="column2">
     <h2></h2>
     <p style="color:white;">
@@ -102,7 +102,7 @@ design:
 
 <br>
 
-<div class="row", style="background-color:#02063C; border-radius: 10px;">
+<div class="row", style="background-color:#02063C; border-radius: 10px;   box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 12px 40px 0 rgba(0, 0, 0, 0.19);">
   <div class="column2img">
     <h2></h2>
     <p></p>
