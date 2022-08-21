@@ -47,10 +47,10 @@ design:
   </div>
 </div>
 
-<div class="row">
+<div class="row", style="background-color:#A5D8FF;">
   <div class="column2">
     <h2></h2>
-    <p>
+    <p style="color:black;">
         The design of human-centered methods for interacting with mixed initiative creative platforms such as <strong>game engines</strong>.
     </p>
   </div>
@@ -77,10 +77,10 @@ design:
   </div>
 </div>
 
-<div class="row">
+<div class="row", style="background-color:#A5D8FF;">
   <div class="column2">
     <h2></h2>
-    <p>
+    <p style="color:black;">
         The challenges of ubiquitous digital play to psychological and legal understanding of games, from <strong>gambling to addiction</strong>.
     </p>
   </div>
