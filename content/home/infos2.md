@@ -1,7 +1,7 @@
 ---
 widget: blank
 headless: true
-active: false
+active: true
 
 # ... Put Your Section Options Here (title etc.) ...
 title: The CDP does research on
