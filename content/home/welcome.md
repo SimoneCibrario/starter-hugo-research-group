@@ -1,6 +1,6 @@
 ---
 widget: blank
-headless: true
+headless: false
 active: true
 
 # ... Put Your Section Options Here (title etc.) ...
