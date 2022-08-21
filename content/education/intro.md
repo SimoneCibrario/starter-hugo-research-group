@@ -12,7 +12,7 @@ design:
   columns: '1'
 ---
 
-<img src="../../assets/media/icon.png" alt="master logo" class="center">
+<img src="MG_signature@pt2.png" alt="master logo" class="center">
 
 <br/>
 
