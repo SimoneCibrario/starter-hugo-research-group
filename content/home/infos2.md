@@ -105,3 +105,5 @@ design:
     </p>
   </div>
 </div>
+
+<img src="../../assets/media/icon.png" alt="master logo" class="center">
