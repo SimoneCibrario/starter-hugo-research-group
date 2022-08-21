@@ -118,4 +118,4 @@ design:
   </div>
 </div>
 
-<img src="bobo.png" alt="master logo" class="center">
+<img src="ituLogo.png" alt="master logo" class="center">
