@@ -29,7 +29,7 @@ design:
   <div class="column">
     <h2></h2>
     <p>
-     {{< figure src="CDP_Mark_Circle@0.5x.png" caption="" numbered="false" >}}
+        {{< figure src="coders.jpg" caption="" numbered="false" >}}
     </p>
   </div>
 </div>
