@@ -15,7 +15,7 @@ design:
     gradient_end: ''
     gradient_angle: 30
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
-    text_color_light: false
+    text_color_light: true
 ---
 <br>
 
@@ -79,7 +79,7 @@ design:
   </div>
   <div class="column">
     <h2></h2>
-    <p style="color:white;">
+    <p style="color:white; text-align: right;">
         The role of play in shaping mundane practices with digital technologies, from <strong>videogames to social media</strong>.
     </p>
   </div>
@@ -112,7 +112,7 @@ design:
   </div>
   <div class="column">
     <h2></h2>
-    <p style="color:white;">
+    <p style="color:white; text-align: right;">
         The use of commercial videogames and playable media in <strong>education</strong>.
     </p>
   </div>
