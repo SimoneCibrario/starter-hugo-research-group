@@ -22,7 +22,7 @@ design:
 <div class="row", style="background-color:#02063C; border-radius: 10px;   box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 12px 40px 0 rgba(0, 0, 0, 0.19);">
   <div class="column">
     <h2></h2>
-    <p style="color:white;">
+    <p style="background-color:white;">
         The application of digital play to develop creative machines that improve human-computer interactions using <strong>deep learning</strong> methods.
     </p>
   </div>
@@ -79,7 +79,7 @@ design:
   </div>
   <div class="column">
     <h2></h2>
-    <p style="color:white;">
+    <p style="color:white; text-align: right;">
         The role of play in shaping mundane practices with digital technologies, from <strong>videogames to social media</strong>.
     </p>
   </div>
@@ -112,7 +112,7 @@ design:
   </div>
   <div class="column">
     <h2></h2>
-    <p style="color:white;">
+    <p style="color:white; text-align: right;">
         The use of commercial videogames and playable media in <strong>education</strong>.
     </p>
   </div>
