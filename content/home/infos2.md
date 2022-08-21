@@ -87,7 +87,7 @@ design:
   <div class="column2">
     <h2></h2>
     <p>
-        immagine
+        {{< figure src="coders.jpg" caption="A caption" numbered="true" >}}
     </p>
   </div>
 </div>
