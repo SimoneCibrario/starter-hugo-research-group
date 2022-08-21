@@ -17,10 +17,10 @@ design:
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: false
 ---
-<div class="row", style="background-color:#A5D8FF; border-radius: 25px;   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
+<div class="row", style="background-color:#02063C; border-radius: 25px;   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
   <div class="column2">
     <h2></h2>
-    <p style="color:black;">
+    <p style="color:white;">
         The application of digital play to develop creative machines that improve human-computer interactions using <strong>deep learning</strong> methods.
     </p>
   </div>
@@ -51,10 +51,10 @@ design:
 
 <br>
 
-<div class="row", style="background-color:#A5D8FF; border-radius: 25px;">
+<div class="row", style="background-color:#02063C; border-radius: 25px;">
   <div class="column2">
     <h2></h2>
-    <p style="color:black;">
+    <p style="color:white;">
         The design of human-centered methods for interacting with mixed initiative creative platforms such as <strong>game engines</strong>.
     </p>
   </div>
@@ -85,10 +85,10 @@ design:
 
 <br>
 
-<div class="row", style="background-color:#A5D8FF; border-radius: 25px;">
+<div class="row", style="background-color:#02063C; border-radius: 25px;">
   <div class="column2">
     <h2></h2>
-    <p style="color:black;">
+    <p style="color:white;">
         The challenges of ubiquitous digital play to psychological and legal understanding of games, from <strong>gambling to addiction</strong>.
     </p>
   </div>
