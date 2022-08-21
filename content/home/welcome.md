@@ -38,9 +38,9 @@ design:
 
 <br>
 
-<h1>
+<p style="font-size: 2em;">
 The CDP is a research environment that studies play and its role of shaping the technology and culture in digital societies, from Machine Learning being trained on games to the communities and practices around videogames.
-</h1>
+</p>
 
 <br>
 
