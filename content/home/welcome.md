@@ -16,7 +16,7 @@ design:
     # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
     image_darken: 0.6
     #  Options are `cover` (default), `contain`, or `actual` size.
-    image_size: cover
+    image_size: actual
     # Options include `left`, `center` (default), or `right`.
     image_position: center
     # Use a fun parallax-like fixed background effect on the desktop? true/false
@@ -26,4 +26,6 @@ design:
 
 ---
 
+<h2>
 The CDP is a research environment that studies play and its role of shaping the technology and culture in digital societies, from Machine Learning being trained on games to the communities and practices around videogames.
+</h2>
