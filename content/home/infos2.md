@@ -27,7 +27,7 @@ design:
   <div class="column2">
     <h2></h2>
     <p>
-        immagine
+        {{< figure src="coders.jpg" caption="A caption" numbered="true" >}}
     </p>
   </div>
 </div>
@@ -36,28 +36,13 @@ design:
   <div class="column2">
     <h2></h2>
     <p>
-        immagine
+        {{< figure src="coders.jpg" caption="A caption" numbered="true" >}}
     </p>
   </div>
   <div class="column2">
     <h2></h2>
     <p>
-        The application of digital play to develop creative machines that improve human-computer interactions using <strong>deep learning</strong> methods.
-    </p>
-  </div>
-</div>
-
-<div class="row">
-  <div class="column2">
-    <h2></h2>
-    <p>
-        The application of digital play to develop creative machines that improve human-computer interactions using <strong>deep learning</strong> methods.
-    </p>
-  </div>
-  <div class="column2">
-    <h2></h2>
-    <p>
-        immagine
+        <li>The application of data science methods on videogame datasets to create computational models of <strong>perception, cognition, and emotion.</strong></li>
     </p>
   </div>
 </div>
@@ -66,22 +51,7 @@ design:
   <div class="column2">
     <h2></h2>
     <p>
-        immagine
-    </p>
-  </div>
-  <div class="column2">
-    <h2></h2>
-    <p>
-        The application of digital play to develop creative machines that improve human-computer interactions using <strong>deep learning</strong> methods.
-    </p>
-  </div>
-</div>
-
-<div class="row">
-  <div class="column2">
-    <h2></h2>
-    <p>
-        The application of digital play to develop creative machines that improve human-computer interactions using <strong>deep learning</strong> methods.
+ù        <li>The design of human-centered methods for interacting with mixed initiative creative platforms such as <strong>game engines</strong>.</li>
     </p>
   </div>
   <div class="column2">
@@ -96,13 +66,43 @@ design:
   <div class="column2">
     <h2></h2>
     <p>
-        immagine
+        {{< figure src="coders.jpg" caption="A caption" numbered="true" >}}
     </p>
   </div>
   <div class="column2">
     <h2></h2>
     <p>
-        The application of digital play to develop creative machines that improve human-computer interactions using <strong>deep learning</strong> methods.
+        <li>The role of play in shaping mundane practices with digital technologies, from <strong>videogames to social media</strong>.</li>
+    </p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column2">
+    <h2></h2>
+    <p>
+        <li>The challenges of ubiquitous digital play to psychological and legal understanding of games, from <strong>gambling to addiction</strong>.</li>
+    </p>
+  </div>
+  <div class="column2">
+    <h2></h2>
+    <p>
+        {{< figure src="coders.jpg" caption="A caption" numbered="true" >}}
+    </p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column2">
+    <h2></h2>
+    <p>
+        {{< figure src="coders.jpg" caption="A caption" numbered="true" >}}
+    </p>
+  </div>
+  <div class="column2">
+    <h2></h2>
+    <p>
+        <li>The use of commercial videogames and playable media in <strong>education</strong>.</li>
     </p>
   </div>
 </div>
