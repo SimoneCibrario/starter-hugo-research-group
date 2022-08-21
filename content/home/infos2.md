@@ -24,7 +24,7 @@ design:
         The application of digital play to develop creative machines that improve human-computer interactions using <strong>deep learning</strong> methods.
     </p>
   </div>
-  <div class="column2">
+  <div class="column2img">
     <h2></h2>
     <p>
         {{< figure src="coders.jpg" caption="" numbered="false" >}}
@@ -33,7 +33,7 @@ design:
 </div>
 
 <div class="row">
-  <div class="column2">
+  <div class="column2img">
     <h2></h2>
     <p>
         {{< figure src="coders.jpg" caption="" numbered="false" >}}
@@ -54,7 +54,7 @@ design:
         The design of human-centered methods for interacting with mixed initiative creative platforms such as <strong>game engines</strong>.
     </p>
   </div>
-  <div class="column2">
+  <div class="column2img">
     <h2></h2>
     <p>
         {{< figure src="coders.jpg" caption="" numbered="false" >}}
@@ -63,7 +63,7 @@ design:
 </div>
 
 <div class="row">
-  <div class="column2">
+  <div class="column2img">
     <h2></h2>
     <p>
         {{< figure src="coders.jpg" caption="" numbered="false" >}}
@@ -84,7 +84,7 @@ design:
         The challenges of ubiquitous digital play to psychological and legal understanding of games, from <strong>gambling to addiction</strong>.
     </p>
   </div>
-  <div class="column2">
+  <div class="column2img">
     <h2></h2>
     <p>
         {{< figure src="coders.jpg" caption="" numbered="false" >}}
