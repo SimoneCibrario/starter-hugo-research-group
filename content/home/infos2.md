@@ -17,7 +17,7 @@ design:
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: true
 ---
-<div class="row", style="background-color:#2C514C;">
+<div class="row", style="background-color:#A5D8FF; text-color:black;">
   <div class="column2">
     <h2></h2>
     <p>
