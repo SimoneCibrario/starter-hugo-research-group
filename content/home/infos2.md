@@ -17,7 +17,7 @@ design:
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: false
 ---
-<div class="row", style="background-color:#A5D8FF; border-radius: 25px;">
+<div class="row", style="background-color:#A5D8FF; border-radius: 25px; box-shadow: 10px 10px;">
   <div class="column2">
     <h2></h2>
     <p style="color:black;">
@@ -32,7 +32,9 @@ design:
   </div>
 </div>
 
-<div class="row", style="background-color:#02063C;">
+<br>
+
+<div class="row", style="background-color:#02063C; border-radius: 25px;">
   <div class="column2img">
     <h2></h2>
     <p>
@@ -47,7 +49,7 @@ design:
   </div>
 </div>
 
-<div class="row", style="background-color:#A5D8FF;">
+<div class="row", style="background-color:#A5D8FF; border-radius: 25px;">
   <div class="column2">
     <h2></h2>
     <p style="color:black;">
@@ -62,7 +64,7 @@ design:
   </div>
 </div>
 
-<div class="row", style="background-color:#02063C;">
+<div class="row", style="background-color:#02063C; border-radius: 25px;">
   <div class="column2img">
     <h2></h2>
     <p>
@@ -77,7 +79,7 @@ design:
   </div>
 </div>
 
-<div class="row", style="background-color:#A5D8FF;">
+<div class="row", style="background-color:#A5D8FF; border-radius: 25px;">
   <div class="column2">
     <h2></h2>
     <p style="color:black;">
@@ -92,7 +94,7 @@ design:
   </div>
 </div>
 
-<div class="row", style="background-color:#02063C;">
+<div class="row", style="background-color:#02063C; border-radius: 25px;">
   <div class="column2img">
     <h2></h2>
     <p></p>
