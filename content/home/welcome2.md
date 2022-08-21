@@ -10,24 +10,19 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 1
+weight: 2
 
 title:
 subtitle:
 
 design:
   columns: '1'
-  background:
-    image: mainlogodark.png
-    image_darken: 0
-    image_parallax: false
-    image_position: center
-    image_size: cover
-    text_color_light: true
-  spacing:
-    padding: ['20px', '0', '20px', '0']
-advanced:
-  css_class: fullscreen
 ---
 
+<p style = "  font-size: 2em;">
+The CDP is a research environment that studies play and its role of shaping the technology and culture in digital societies, from Machine Learning being trained on games to the communities and practices around videogames.
+</p>
 
+<br>
+
+___
