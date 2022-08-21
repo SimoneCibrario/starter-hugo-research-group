@@ -42,7 +42,7 @@ design:
   <div class="column2">
     <h2></h2>
     <p>
-        <li>The application of data science methods on videogame datasets to create computational models of <strong>perception, cognition, and emotion.</strong></li>
+        The application of data science methods on videogame datasets to create computational models of <strong>perception, cognition, and emotion.</strong>
     </p>
   </div>
 </div>
@@ -51,7 +51,7 @@ design:
   <div class="column2">
     <h2></h2>
     <p>
-ù        <li>The design of human-centered methods for interacting with mixed initiative creative platforms such as <strong>game engines</strong>.</li>
+        The design of human-centered methods for interacting with mixed initiative creative platforms such as <strong>game engines</strong>.
     </p>
   </div>
   <div class="column2">
@@ -72,7 +72,7 @@ design:
   <div class="column2">
     <h2></h2>
     <p>
-        <li>The role of play in shaping mundane practices with digital technologies, from <strong>videogames to social media</strong>.</li>
+        The role of play in shaping mundane practices with digital technologies, from <strong>videogames to social media</strong>.
     </p>
   </div>
 </div>
@@ -81,7 +81,7 @@ design:
   <div class="column2">
     <h2></h2>
     <p>
-        <li>The challenges of ubiquitous digital play to psychological and legal understanding of games, from <strong>gambling to addiction</strong>.</li>
+        The challenges of ubiquitous digital play to psychological and legal understanding of games, from <strong>gambling to addiction</strong>.
     </p>
   </div>
   <div class="column2">
@@ -102,7 +102,7 @@ design:
   <div class="column2">
     <h2></h2>
     <p>
-        <li>The use of commercial videogames and playable media in <strong>education</strong>.</li>
+        The use of commercial videogames and playable media in <strong>education</strong>.
     </p>
   </div>
 </div>
