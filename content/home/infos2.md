@@ -17,10 +17,10 @@ design:
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: true
 ---
-<div class="row", style="background-color:#A5D8FF; text-color:black;">
+<div class="row", style="background-color:#A5D8FF;">
   <div class="column2">
     <h2></h2>
-    <p>
+    <p style="color:black;">
         The application of digital play to develop creative machines that improve human-computer interactions using <strong>deep learning</strong> methods.
     </p>
   </div>
