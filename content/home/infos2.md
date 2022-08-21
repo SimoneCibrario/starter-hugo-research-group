@@ -106,3 +106,4 @@ design:
   </div>
 </div>
 
+ <img src="../../assets/media/coders.jpg" alt="drawing" width="50%"/>
