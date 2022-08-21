@@ -32,6 +32,8 @@ design:
   </div>
 </div>
 
+<hr class="rounded">
+
 <div class="row">
   <div class="column2img">
     <h2></h2>
@@ -46,6 +48,8 @@ design:
     </p>
   </div>
 </div>
+
+<hr class="rounded">
 
 <div class="row">
   <div class="column2">
@@ -62,6 +66,8 @@ design:
   </div>
 </div>
 
+<hr class="rounded">
+
 <div class="row">
   <div class="column2img">
     <h2></h2>
@@ -77,6 +83,8 @@ design:
   </div>
 </div>
 
+<hr class="rounded">
+
 <div class="row">
   <div class="column2">
     <h2></h2>
@@ -91,6 +99,8 @@ design:
     </p>
   </div>
 </div>
+
+<hr class="rounded">
 
 <div class="row">
   <div class="column2img">
