@@ -15,9 +15,9 @@ design:
     gradient_end: ''
     gradient_angle: 30
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
-    text_color_light: true
+    text_color_light: false
 ---
-<div class="row", style="background-color:#A5D8FF;">
+<div class="row", style="background-color:#A5D8FF; border-radius: 25px;">
   <div class="column2">
     <h2></h2>
     <p style="color:black;">
