@@ -1,10 +1,7 @@
 ---
 widget: blank
-headless: false
+headless: true
 active: true
-header:
-  image: "mainlogodark.png"
-  caption: "Image credit: [**Geo**](https://github.com/gcushen/)"
 
 # ... Put Your Section Options Here (title etc.) ...
 title:
@@ -12,6 +9,10 @@ subtitle:
 weight: 1  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '1'
+header:
+  image: "mainlogodark.png"
+  caption: "Image credit: [**Geo**](https://github.com/gcushen/)"
 
 ---
 <p style="font-size: 2em;">
