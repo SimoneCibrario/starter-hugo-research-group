@@ -27,7 +27,7 @@ design:
   <div class="column2">
     <h2></h2>
     <p>
-        {{< figure src="coders.jpg" caption="A caption" numbered="true" >}}
+        {{< figure src="coders.jpg" caption="" numbered="false" >}}
     </p>
   </div>
 </div>
@@ -36,7 +36,7 @@ design:
   <div class="column2">
     <h2></h2>
     <p>
-        {{< figure src="coders.jpg" caption="A caption" numbered="true" >}}
+        {{< figure src="coders.jpg" caption="" numbered="false" >}}
     </p>
   </div>
   <div class="column2">
@@ -57,7 +57,7 @@ design:
   <div class="column2">
     <h2></h2>
     <p>
-        {{< figure src="coders.jpg" caption="A caption" numbered="true" >}}
+        {{< figure src="coders.jpg" caption="" numbered="false" >}}
     </p>
   </div>
 </div>
@@ -66,7 +66,7 @@ design:
   <div class="column2">
     <h2></h2>
     <p>
-        {{< figure src="coders.jpg" caption="A caption" numbered="true" >}}
+        {{< figure src="coders.jpg" caption="" numbered="false" >}}
     </p>
   </div>
   <div class="column2">
@@ -87,7 +87,7 @@ design:
   <div class="column2">
     <h2></h2>
     <p>
-        {{< figure src="coders.jpg" caption="A caption" numbered="true" >}}
+        {{< figure src="coders.jpg" caption="" numbered="false" >}}
     </p>
   </div>
 </div>
@@ -96,7 +96,7 @@ design:
   <div class="column2">
     <h2></h2>
     <p>
-        {{< figure src="coders.jpg" caption="A caption" numbered="true" >}}
+        {{< figure src="coders.jpg" caption="" numbered="false" >}}
     </p>
   </div>
   <div class="column2">
