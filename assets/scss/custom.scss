@@ -6,11 +6,12 @@
 }
 
 .column {
-  float: left;
+  float: center;
   width: 50%;
   padding: 30px;
   margin: auto;
   font-size: 1.2em;
+  image-resolution: 0.5;
 }
 
 .row:after {
