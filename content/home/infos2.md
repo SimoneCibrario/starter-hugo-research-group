@@ -96,8 +96,7 @@ design:
   <div class="column2">
     <h2></h2>
     <p>
-        {{< figure src="coders.jpg" caption="" numbered="false" >}}
-    </p>
+        <img src="\testWebSite\starter-hugo-research-group\assets\media\coders.jpg" alt="drawing" width="50%"/>    </p>
   </div>
   <div class="column2">
     <h2></h2>
