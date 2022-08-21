@@ -117,3 +117,5 @@ design:
     </p>
   </div>
 </div>
+
+<img src="CDP_Mark_Circle@0.5x.png" alt="master logo" class="center">
