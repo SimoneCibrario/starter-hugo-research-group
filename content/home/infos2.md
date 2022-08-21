@@ -27,7 +27,7 @@ design:
   <div class="column2">
     <h2></h2>
     <p>
-        {{< figure src="coders.jpg" caption="" numbered="false" >}}
+        {{< figure src="coders.jpg" caption="" numbered="false" scale=50%>}}
     </p>
   </div>
 </div>
