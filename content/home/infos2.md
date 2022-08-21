@@ -32,7 +32,7 @@ design:
   </div>
 </div>
 
-<div class="row">
+<div class="row", style="background-color:#454545;">
   <div class="column2img">
     <h2></h2>
     <p>
@@ -62,7 +62,7 @@ design:
   </div>
 </div>
 
-<div class="row">
+<div class="row", style="background-color:#454545;">
   <div class="column2img">
     <h2></h2>
     <p>
@@ -92,7 +92,7 @@ design:
   </div>
 </div>
 
-<div class="row">
+<div class="row", style="background-color:#454545;">
   <div class="column2img">
     <h2></h2>
     <p></p>
