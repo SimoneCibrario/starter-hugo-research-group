@@ -9,7 +9,7 @@ subtitle:
 weight: 10  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: '2'
   background:
     gradient_start: '#4351F5'
     gradient_end: '#4351F5'
