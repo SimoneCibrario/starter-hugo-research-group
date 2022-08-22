@@ -9,7 +9,7 @@ subtitle:
 weight: 10  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '2'
+  columns: '1'
   background:
     gradient_start: '#4351F5'
     gradient_end: '#4351F5'
@@ -17,6 +17,8 @@ design:
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: true
 ---
+
+<br>
 
 <div class="row", style="background-color:#02063C; border-radius: 10px;   box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 12px 40px 0 rgba(0, 0, 0, 0.19);">
   <div class="column">
