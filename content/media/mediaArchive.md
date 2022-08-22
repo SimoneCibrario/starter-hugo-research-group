@@ -3,7 +3,7 @@ widget: pages
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Media Archive
+title: MEDIA ARCHIVE
 subtitle: ''
   
 
