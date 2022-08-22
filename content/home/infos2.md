@@ -4,7 +4,7 @@ headless: true
 active: true
 
 # ... Put Your Section Options Here (title etc.) ...
-title: WE DO RESEARCH ON
+title: We do research on
 subtitle:
 weight: 10  # section position on page
 design:
