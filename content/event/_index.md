@@ -1,5 +1,5 @@
 ---
-title: Activities
+title: ACTIVITIES
 
 # Listing view
 view: compact

@@ -16,7 +16,7 @@ design:
 
 content:
   slides:
-    - title: Our values at the CDP
+    - title: OUR VALUES
       content: 
       align: center
       background:
@@ -43,7 +43,7 @@ content:
         brightness: 0.7
         media: 
         fit:  cover
-    - title: Intellectual development
+    - title: Intellectual Development
       content: The Center for Computer Games Research is an environment where junior scholars can thrive and find support in their intellectual and career development.
       align: right
       background:
@@ -52,7 +52,7 @@ content:
         brightness: 0.7
         media: 
         fit:  cover
-    - title: Work/Life balance
+    - title: Work/Life Balance
       content: The Center for Computer Games Research respects and encourages work/life balance, and aspires to create a healthy and inspiring work environment where faculty at all levels, from PhD and part-time lecturers to Full Professors, can thrive.
       align: center
       background:

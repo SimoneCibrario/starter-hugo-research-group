@@ -1,7 +1,6 @@
 ---
 widget: blank
 headless: true
-title: purpose
 
 # ... Put Your Section Options Here (title etc.) ...
 title: 

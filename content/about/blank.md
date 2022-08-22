@@ -4,7 +4,7 @@ headless: true  # This file represents a page section.
 weight: 20
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Research groups
+title: RESEARCH GROUPS
 subtitle: ''
 
 content:
