@@ -30,3 +30,11 @@ advanced:
   css_class: fullscreen
 ---
 
+
+<br>
+
+<p style = "  font-size: 2em; text-align: center;">
+The CDP is a research environment that studies play and its role of shaping the technology and culture in digital societies, from Machine Learning being trained on games to the communities and practices around videogames.
+</p>
+
+<br>
