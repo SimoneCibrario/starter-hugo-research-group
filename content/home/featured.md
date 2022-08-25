@@ -29,7 +29,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view:  card
+  view:  compact
   css_style: 
   css_class: 
 ---
