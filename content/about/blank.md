@@ -1,7 +1,7 @@
 ---
 widget: portfolio
 headless: true  # This file represents a page section.
-weight: 20
+weight: 5
 
 # ... Put Your Section Options Here (title etc.) ...
 title: RESEARCH GROUPS
