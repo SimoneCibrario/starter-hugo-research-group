@@ -23,7 +23,7 @@ content:
         position: right
         color: '#02063C'
         brightness: 0.7
-        media: 
+        media: "270821 Games Lab _5.jpg"
         fit:  cover
     - title: Inclusivity and Diversity
       content: The Center for Computer Games Research values and promotes diversity in its research, work processes, and hiring practices.
@@ -32,7 +32,7 @@ content:
         position: right
         color: '#02063C'
         brightness: 1
-        media: "TestBanner.png"
+        media: "270821 Games Lab .jpg"
         fit:  cover
     - title: Equity
       content: The Center for Computer Games Research works towards creating more equality in research and industry, through academic work, public outreach, and industry collaborations.
@@ -41,7 +41,7 @@ content:
         position: center
         color: '#02063C'
         brightness: 0.7
-        media: 
+        media: "270821 Games Lab _2.jpg"
         fit:  cover
     - title: Intellectual Development
       content: The Center for Computer Games Research is an environment where junior scholars can thrive and find support in their intellectual and career development.
@@ -59,7 +59,7 @@ content:
         position: center
         color: '#02063C'
         brightness: 0.7
-        media: 
+        media: "270821 Games Lab _1.jpg"
         fit:  cover
     - title: Environmental Responsibility and Sustainability
       content: The Center for Computer Games Research commits to research, education, and work practices that contribute to the green transition.
@@ -68,6 +68,6 @@ content:
         position: center
         color: '#02063C'
         brightness: 0.7
-        media: 
+        media: "270821 Games Lab _3.jpg" 
         fit:  cover
 ---
