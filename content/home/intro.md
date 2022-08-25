@@ -28,7 +28,7 @@ design:
   <div class="column">
     <h2></h2>
     <p>
-        {{< figure src="mainlogodark.jpg" caption="" numbered="false" >}}
+        {{< figure src="mainlogodark.png" caption="" numbered="false" >}}
     </p>
   </div>
 </div>
