@@ -4,7 +4,7 @@ name = "nord"
 [light]
 
   # Primary
-  primary = "#4051FF"
+  primary = "#FF4E4E"
 
   link = "#FF4E4E"
   link_hover = "#C64243"
