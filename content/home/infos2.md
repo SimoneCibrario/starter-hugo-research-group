@@ -15,7 +15,7 @@ design:
     gradient_end: '#A5D8FF'
     gradient_angle: 30
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
-    text_color_light: true
+    text_color_light: false
 ---
 
 <br>
