@@ -1,8 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "CHARMING"
-summary: "The 'European Training Network for Chemical Engineering Immersive Learning' (CHARMING) sets out to 'develop [...] learning strategies, content and prototypes for the application of games and virtual/augmented reality for motivating, teaching and training children, students and employees in chemistry, chemical engineering and chemical operations.'"
+title: "DIGITAL LIFE & SOCIAL PRACTICES"
+summary: "The Digital Life and Social Practices explores the practices, transitions and frictions of existence in our social life within digitized environments. Particular areas of focus are:
+- Digital social practices emerging in and mediated through games and other playful activity, such as meme-making
+- Possibilities and challenges of social life and death in the metaverse (in the broadest sense possible), building upon earlier studies of e.g., internet culture, digital environments, and playful multiplayer experiences.
+- Social practices and emerging AI in relation to e.g., creativity tools, griefbots and other smart devices incorporating deceased human beings into the mundane life of the still living 
+- Digital life and the mediation of important life transitions "
 authors: []
 tags: ["metaverse"]
 categories: []
