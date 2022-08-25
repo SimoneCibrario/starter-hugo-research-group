@@ -11,8 +11,8 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
   background:
-    gradient_start: '#4351F5'
-    gradient_end: '#4351F5'
+    gradient_start: '#A5D8FF'
+    gradient_end: '#A5D8FF'
     gradient_angle: 30
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: true

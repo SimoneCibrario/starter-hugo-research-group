@@ -11,7 +11,7 @@ name = "nord"
   # link_decoration = "underline"
 
   # Menu
-  menu_primary = "#4051FF"
+  menu_primary = "#A5D8FF"
   menu_text = "#FFFFFF"
   menu_text_active = "#361134"
   menu_title = "#FFFFFF"
