@@ -33,7 +33,7 @@ advanced:
 
 <br>
 
-<p style = "  font-size: 2em; text-align: center; margin: 50%; background-color:#02063C;">
+<p style = "  font-size: 2em; text-align: center; margin-top: 50%; background-color:#02063C;">
 The CDP is a research environment that studies play and its role of shaping the technology and culture in digital societies, from Machine Learning being trained on games to the communities and practices around videogames.
 </p>
 
