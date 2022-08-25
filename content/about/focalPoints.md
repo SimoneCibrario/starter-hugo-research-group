@@ -22,7 +22,7 @@ content:
       background:
         position: right
         color: '#02063C'
-        brightness: 0.7
+        brightness: 0.6
         media: "270821 Games Lab _5.jpg"
         fit:  cover
     - title: Inclusivity and Diversity
@@ -31,7 +31,7 @@ content:
       background:
         position: right
         color: '#02063C'
-        brightness: 1
+        brightness: 0.6
         media: "270821 Games Lab .jpg"
         fit:  cover
     - title: Equity
@@ -40,7 +40,7 @@ content:
       background:
         position: center
         color: '#02063C'
-        brightness: 0.7
+        brightness: 0.6
         media: "270821 Games Lab _2.jpg"
         fit:  cover
     - title: Intellectual Development
@@ -49,8 +49,8 @@ content:
       background:
         position: center
         color: '#02063C'
-        brightness: 0.7
-        media: 
+        brightness: 0.6
+        media: "270821 Games Lab _6.jpg"
         fit:  cover
     - title: Work/Life Balance
       content: The Center for Computer Games Research respects and encourages work/life balance, and aspires to create a healthy and inspiring work environment where faculty at all levels, from PhD and part-time lecturers to Full Professors, can thrive.
@@ -58,7 +58,7 @@ content:
       background:
         position: center
         color: '#02063C'
-        brightness: 0.7
+        brightness: 0.6
         media: "270821 Games Lab _1.jpg"
         fit:  cover
     - title: Environmental Responsibility and Sustainability
@@ -67,7 +67,7 @@ content:
       background:
         position: center
         color: '#02063C'
-        brightness: 0.7
+        brightness: 0.6
         media: "270821 Games Lab _3.jpg" 
         fit:  cover
 ---
