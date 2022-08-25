@@ -21,7 +21,7 @@ design:
 <div class="row">
   <div class="column">
     <h2></h2>
-    <p style="color:white;">
+    <p>
         > The CDP is a research environment that studies play and its role of shaping the technology and culture in digital societies, from Machine Learning being trained on games to the communities and practices around videogames.
     </p>
   </div>
