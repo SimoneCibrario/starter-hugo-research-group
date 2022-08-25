@@ -35,4 +35,10 @@ design:
   spacing:
       # Customize the section spacing. Order is top, right, bottom, left.
       padding: ["100px", "0", "100px", "0"]
+  background:
+    gradient_start: '#05257F'
+    gradient_end: '#05257F'
+    gradient_angle: 30
+    # Text color (true=light, false=dark, or remove for the dynamic theme color).
+    text_color_light: false
 ---
