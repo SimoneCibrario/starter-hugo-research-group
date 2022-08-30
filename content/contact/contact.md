@@ -27,7 +27,7 @@ content:
   coordinates:
     latitude: '55.659284123843186'
     longitude: '12.590917184001094'
-  directions: These are placeholder directions
+  directions: Located in the DR Building section of ITU, second and third floor
  # office_hours:
  #   - 'Monday 10:00 to 13:00'
   #  - 'Wednesday 09:00 to 10:00'
