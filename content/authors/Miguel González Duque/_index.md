@@ -72,6 +72,7 @@ user_groups:
 - PhD Students
 - CCGR Members
 - Creative AI Lab
+- Members
 ---
 
 I started my PhD in Oct. of 2019 under the supervision of Sebastian Risi. My PhD focuses on applications of Bayesian Optimization (and other forms of modelling) to adapting content for users and bots. I am also researching how this content could be automatically generated using Deep Generative Models (e.g. VAEs).

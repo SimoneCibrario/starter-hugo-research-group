@@ -69,6 +69,7 @@ email: ""
 user_groups:
 - PhD Students
 - CCGR Members
+- Members
 ---
 
 Current research interests: Immersive technologies in STEM learning, AR, VR, MR, GBL, educational game-making, game and interactive design.

@@ -67,6 +67,7 @@ email: ""
 user_groups:
 - PhD Students
 - CCGR Former
+- Members
 ---
 
 Current research interests: digital images, artificial intelligence, algorithmic media, representation, cybernetics.

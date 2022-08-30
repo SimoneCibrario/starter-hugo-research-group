@@ -68,6 +68,7 @@ email: ""
 user_groups:
 - PhD Students
 - CCGR Members
+- Members
 ---
 
 Current research interests: Especially curious about games as learning and shaping mediums, Nina is currently focused on creating games to interest children in Chemistry and Chemical Engineering.

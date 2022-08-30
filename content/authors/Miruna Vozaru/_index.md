@@ -66,6 +66,7 @@ email: ""
 user_groups:
 - PhD Students
 - CCGR Members
+- Members
 ---
 
 Current research interests: Player game communication and interaction, Game segmentation, Game analysis frameworks

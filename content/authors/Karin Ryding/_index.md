@@ -63,6 +63,7 @@ email: ""
 user_groups:
 - PhD Students
 - CCGR Former
+- Members
 ---
 
 Research interests include the Production of meaning and presence in playful experiences, Museum Games, Art and Games, Posthumanism, Critical Play, Design Methods, Post-apocalyptic games, Monsters and the Sublime

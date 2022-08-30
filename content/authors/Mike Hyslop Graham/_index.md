@@ -66,6 +66,7 @@ email: ""
 user_groups:
 - PhD Students
 - CCGR Members
+- Members
 ---
 
 As a PhD Fellow at the IT University of Copenhagen I am currently conducting ethnographic research in which the single-player play-practise is investigated from a perspective of learning and identity development. 

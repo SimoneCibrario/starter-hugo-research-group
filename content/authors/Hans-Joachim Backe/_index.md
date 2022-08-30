@@ -68,6 +68,7 @@ email: ""
 user_groups:
 - Professors
 - CCGR Members
+- Members
 ---
 
 My academic background is originally in Comparative Literature and Media Studies, and my research interests always involve a component of comparative method and media theory. The majority of my research is in humanistic game studies and intermedia research, particularly involving games, comic books, film, and literature.

@@ -68,6 +68,7 @@ email: ""
 user_groups:
 - PhD Students
 - CCGR Members
+- Members
 ---
 
 Current research interests: Player typologies, Player Identification and Representation, Games and Monsters, Stereotyping, Othering, Games and Empathy, Game Analysis Frameworks, Multimodality, Empathy and Play.

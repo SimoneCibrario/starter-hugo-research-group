@@ -54,6 +54,7 @@ email: dofo@itu.dk
 user_groups:
 - PhD Students
 - CCGR Members
+- Members
 ---
 I'm a PhD Fellow at the IT University of Copenhagen studying myth and cultural meaning in digital games. I also hold a BA and an MA in English from the University of Exeter, focusing largely on digital games and late medieval Arthurian romance, and I bring that literary and cultural analysis to digital games. In 2019, I completed an MSc in Games at the IT University of Copenhagen.
 

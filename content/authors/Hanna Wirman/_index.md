@@ -34,6 +34,7 @@ email: ""
 user_groups:
   - Professors
   - CCGR Members
+  - Members
 ---
 
 Current research interests: Gender, Identity, Co-creativity, Co-design, Participatory cultures, Fan cultures, Mobile games, Pervasive games, Non-human animal play.

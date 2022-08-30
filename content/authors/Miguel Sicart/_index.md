@@ -67,6 +67,7 @@ email: ""
 user_groups:
 - Head of Center
 - CCGR Members
+- Members
 ---
 
 Miguel Sicart studies play.

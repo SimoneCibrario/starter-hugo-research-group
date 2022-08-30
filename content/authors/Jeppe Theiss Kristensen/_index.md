@@ -68,6 +68,7 @@ email: ""
 user_groups:
 - PhD Students
 - CCGR Members
+- Members
 ---
 
 Current research interests: Player modelling, churn prediction, reinforcement learning for player agents in mobile casual games

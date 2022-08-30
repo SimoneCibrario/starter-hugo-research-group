@@ -10,7 +10,7 @@ superuser: false
 
 # Role/position/tagline
 role: PhD Student
-user_groups: ["PhD Students", "CCGR Members", "Creative AI Lab"]
+user_groups: ["PhD Students", "CCGR Members", "Creative AI Lab", "Members"]
 
 # Organizations/Affiliations to show in About widget
 organizations:

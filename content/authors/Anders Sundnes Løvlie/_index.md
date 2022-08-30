@@ -73,5 +73,6 @@ email: ""
 user_groups:
 - Professors
 - CCGR Members
+- Members
 ---
 

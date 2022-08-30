@@ -68,6 +68,7 @@ email: ""
 user_groups:
 - Professors
 - CCGR Members
+- Members
 ---
 
 Daniel runs the University's monthly workshop series which is about electronics, mechanics, alchemy, interface devices and dangerous things. In his own practice, he creates interactive artefacts which are shown at art exhibitions, academic conferences and popular events. Daniel is author of a monograph about play as a perspective in everyday computer use (transcript, 2010), and editor of a volume on the playful disruption of digital media (Springer, 2018). More info is available at [dace.de](http://dace.de).

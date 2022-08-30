@@ -66,6 +66,7 @@ email: ""
 user_groups:
 - Professors
 - CCGR Members
+- Members
 ---
 
 Current research interests: Rune's primary research interest is the concept of computer game addiction and its ontology, phenomenology, and etiology. Rune co-authored the handbook "Det modstræbende Panoptikon" (The Reluctant Panopticon), which deals with the unique challenges of psychological and pedagogical praxis in Danish juvenile detention facilities.
