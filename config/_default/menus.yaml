@@ -19,9 +19,12 @@ main:
   - name: Media
     url: media
     weight: 50
+  - name: Research
+    url: https://pure.itu.dk/portal/en/organisations/center-for-digital-play
+    weight: 60
   - name: Education
     url: education
-    weight: 60
+    weight: 70
   - name: Contacts
     url: contact
-    weight: 70
+    weight: 80
