@@ -40,7 +40,7 @@ content:
       tag: ai
     - name: Media
       tag: media
-    - name: DIGITALIS
+    - name: meta
       tag: metaverse
 
   # Default filter toolbar button (e.g. 0 corresponds to the first `filter_button` instance above)

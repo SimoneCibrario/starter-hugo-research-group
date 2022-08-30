@@ -58,7 +58,7 @@ content:
       background:
         position: center
         color: '#02063C'
-        brightness: 0.6
+        brightness: 0.4
         media: "270821 Games Lab _1.jpg"
         fit:  cover
     - title: Environmental Responsibility and Sustainability
@@ -67,7 +67,7 @@ content:
       background:
         position: center
         color: '#02063C'
-        brightness: 0.6
+        brightness: 0.4
         media: "270821 Games Lab _3.jpg" 
         fit:  cover
 ---
