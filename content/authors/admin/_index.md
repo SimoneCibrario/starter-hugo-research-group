@@ -34,7 +34,7 @@ education:
 email: ""
 superuser: true
 user_groups:
-  - Members
+  - test
 highlight_name: false
 ---
 
