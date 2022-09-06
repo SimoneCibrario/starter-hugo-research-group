@@ -43,7 +43,7 @@ content:
         brightness: 0.6
         media: "270821 Games Lab _2.jpg"
         fit:  cover
-    - title: Intellectual Development
+    - title: Development
       content: The Center for Computer Games Research is an environment where junior scholars can thrive and find support in their intellectual and career development.
       align: right
       background:
@@ -52,7 +52,7 @@ content:
         brightness: 0.6
         media: "270821 Games Lab _6.jpg"
         fit:  cover
-    - title: Work/Life Balance
+    - title: Balance
       content: The Center for Computer Games Research respects and encourages work/life balance, and aspires to create a healthy and inspiring work environment where faculty at all levels, from PhD and part-time lecturers to Full Professors, can thrive.
       align: center
       background:
@@ -61,7 +61,7 @@ content:
         brightness: 0.4
         media: "270821 Games Lab _1.jpg"
         fit:  cover
-    - title: Environmental Responsibility and Sustainability
+    - title: Sustainability
       content: The Center for Computer Games Research commits to research, education, and work practices that contribute to the green transition.
       align: right
       background:
