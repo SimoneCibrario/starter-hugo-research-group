@@ -25,7 +25,7 @@ content:
         brightness: 0.6
         media: "270821 Games Lab _5.jpg"
         fit:  cover
-    - title: Inclusivity and Diversity
+    - title: <p class = "smallerTitle">Inclusivity and Diversity</p>
       content: <p class = "smallerText">The Center for Computer Games Research values and promotes diversity in its research, work processes, and hiring practices. </p>
       align: center
       background:
@@ -34,7 +34,7 @@ content:
         brightness: 0.6
         media: "270821 Games Lab .jpg"
         fit:  cover
-    - title: Equity
+    - title: <p class = "smallerTitle">Equity</p>
       content: <p class = "smallerText">The Center for Computer Games Research works towards creating more equality in research and industry, through academic work, public outreach, and industry collaborations.</p>
       align: left
       background:
@@ -43,7 +43,7 @@ content:
         brightness: 0.6
         media: "270821 Games Lab _2.jpg"
         fit:  cover
-    - title: Development
+    - title: <p class = "smallerTitle">Development</p>
       content: <p class = "smallerText">The Center for Computer Games Research is an environment where junior scholars can thrive and find support in their intellectual and career development.</p>
       align: right
       background:
@@ -52,7 +52,7 @@ content:
         brightness: 0.6
         media: "270821 Games Lab _6.jpg"
         fit:  cover
-    - title: Balance
+    - title: <p class = "smallerTitle">Balance</p>
       content: <p class = "smallerText">The Center for Computer Games Research respects and encourages work/life balance, and aspires to create a healthy and inspiring work environment where faculty at all levels, from PhD and part-time lecturers to Full Professors, can thrive.</p>
       align: center
       background:
@@ -61,7 +61,7 @@ content:
         brightness: 0.4
         media: "270821 Games Lab _1.jpg"
         fit:  cover
-    - title: Sustainability
+    - title: <p class = "smallerTitle">Sustainability</p>
       content: <p class = "smallerText">The Center for Computer Games Research commits to research, education, and work practices that contribute to the green transition. </p>
       align: right
       background:
