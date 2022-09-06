@@ -11,7 +11,7 @@ image:
   focal_point: Smart
   preview_only: true
 ---
-{{< https://youtu.be/Y0dPoNLpWQ8 >}}
+{{< youtube cO5AG62AKFc >}}
 
 Why do we study games? What is the field of 'game studies'? How does research into games help us better understand the changing nature of games in times of chaos, such as the global pandemic?
 
