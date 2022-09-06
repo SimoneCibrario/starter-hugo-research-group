@@ -1,6 +1,6 @@
 ---
-title: Roundtable Discussion - What's the point of game studies?
-subtitle: Why do we study games? What is the field of 'game studies'?
+title: ITU Playcast 2 
+subtitle: Creepypasta game, empathy
 date: 2022-06-07T10:07:33.677Z
 draft: false
 featured: true
@@ -11,10 +11,7 @@ image:
   focal_point: Smart
   preview_only: true
 ---
-{{< youtube Y0dPoNLpWQ8c >}}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3uOgRLOmGYgYZqolDr5MoB?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-Why do we study games? What is the field of 'game studies'? How does research into games help us better understand the changing nature of games in times of chaos, such as the global pandemic?
-
-In this roundtable discussion, we try to answer these questions and more from a variety of angles. Enjoy a wide-ranging discussion on what game studies is, what it can offer us, and how it has helped us to better understand the role of games in society.
-
-Hosted by Dom Ford, a PhD student at the IT University of Copenhagen's Center for Computer Games Research. Joined by Associate Professors Daniel Cermak-Sassenrath, Hanna Wirman and Torill Mortensen from the Center for Computer Games Research, and also by Associate Professor Paweł Grabarczyk from the IT University's Center for Computing Education Research.
+We discuss creepypastas in, about and as games, and what empathy means, how it relates to and works within games, and why it's important to think about. Hosted by Dom Ford, who is joined by Nina Patricia Houe and Miruna Vozaru. This is the second episode of ITU Playcast, a podcast by the Center for Computer Games Research at the IT University of Copenhagen.
+Each episode, a few of us get together to discuss both popular topics in the world of games, as well as what we're working on in our research.
