@@ -16,7 +16,5 @@ design:
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: true
 ---
-<div style="text-align: center">
-<iframe src="https://anchor.fm/itu-games-research/embed" height="160px" width="1080px" frameborder="0" scrolling="no"></iframe>
-</div>
+
 
