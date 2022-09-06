@@ -8,7 +8,7 @@ headless: true  # This file represents a page section.
 design:
   # Slide height is automatic unless you force a specific height (e.g. '400px')
   slide_height: ''
-  is_fullscreen: false
+  is_fullscreen: true
   # Automatically transition through slides?
   loop: true
   # Duration of transition between slides (in ms)
@@ -26,7 +26,7 @@ content:
         media: "270821 Games Lab _5.jpg"
         fit:  cover
     - title: Inclusivity and Diversity
-      content: The Center for Computer Games Research values and promotes diversity in its research, work processes, and hiring practices.
+      content: <p class = "smallerText"> The Center for Computer Games Research values and promotes diversity in its research, work processes, and hiring practices. </p>
       align: center
       background:
         position: right
