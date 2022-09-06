@@ -37,6 +37,7 @@
   .column2 {
     width: 100%;
   }
+
 }
 
 .column2 {
@@ -57,4 +58,9 @@
 hr.rounded {
   border-top: 3px solid rgb(255, 255, 255);
   border-radius: 1px;
+}
+
+.smallerText
+{
+  font-size: 1.2em;
 }
