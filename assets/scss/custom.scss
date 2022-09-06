@@ -38,6 +38,11 @@
     width: 100%;
   }
 
+  .smallerText
+  {
+    font-size: 1em;
+  }
+
 }
 
 .column2 {
@@ -62,5 +67,6 @@ hr.rounded {
 
 .smallerText
 {
-  font-size: 0.6em;
+  font-size: 1.2em;
+  color:white;
 }
