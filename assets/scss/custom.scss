@@ -25,25 +25,7 @@
   clear: both;
 }
 
-@media (max-width: 600px) {
-  .column {
-    width: 100%;
-  }
 
-  .column2img {
-    width: 100%;
-  }
-
-  .column2 {
-    width: 100%;
-  }
-
-  .smallerText
-  {
-    font-size: 0.5em;
-  }
-
-}
 
 .column2 {
   margin: auto;
@@ -69,4 +51,23 @@ hr.rounded {
 {
   font-size: 1.5em;
   color:white;
+}
+@media (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+
+  .column2img {
+    width: 100%;
+  }
+
+  .column2 {
+    width: 100%;
+  }
+
+  .smallerText
+  {
+    font-size: 0.5em;
+  }
+
 }
