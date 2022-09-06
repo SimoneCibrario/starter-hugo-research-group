@@ -1,31 +1,31 @@
 ---
-title: Example Event
+title: Center of Digital Play site launch
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: Website launch
+event_url: 
 
 profile: false
 share: false
 
-location: Wowchemy HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: The internet
+address: 
+  street: 
+  city: 
+  region: 
+  postcode: 
+  country: 
 
-summary: An example event.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: The new Center for Digital Play website is officially launching!
+abstract: The new website will be a digital portal towards the department research. Here you will find our contact, our works and the most recent events and activities. 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2022-09-15T13:00:00Z'
+date_end: '2022-09-15T13:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-09-15T13:00:00Z'
 
 authors: []
 tags: []
@@ -34,7 +34,7 @@ tags: []
 featured: true
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 
   focal_point: Right
 
 url_code: ''
@@ -56,11 +56,3 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including page elements such as image galleries, can be added to the body of this page.
