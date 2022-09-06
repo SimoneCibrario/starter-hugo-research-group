@@ -38,7 +38,7 @@ content:
       tag: games
     - name: AI
       tag: ai
-    - name: Media
+    - name: MAD
       tag: media
     - name: Digitalis
       tag: metaverse
