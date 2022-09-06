@@ -16,7 +16,7 @@ design:
 
 content:
   slides:
-    - title: OUR VALUES
+    - title: <p class = "smallerTitle">OUR VALUES</p>
       content: 
       align: center
       background:

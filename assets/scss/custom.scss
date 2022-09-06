@@ -52,6 +52,14 @@ hr.rounded {
   font-size: 1.5em;
   color:white;
 }
+
+.smallerTitle
+{
+  font-size: 2em;
+  color:white;
+}
+
+
 @media (max-width: 600px) {
   .column {
     width: 100%;
@@ -69,4 +77,10 @@ hr.rounded {
   {
     font-size: 1em;
   }
+
+  .smallerTitle
+{
+  font-size: 1.5em;
+  color:white;
+}
 }
