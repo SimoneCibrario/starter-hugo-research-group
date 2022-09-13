@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Center for Digital Play. This work is licensed under {license}'
+    notice: '© {year} Center for Digital Play. This work is licensed under {license} | Visual Identity: Helena Ruão, Simone Cibrario Nona | Web Design: Simone Cibrario Nona'
     license:
       enable: true
       allow_derivatives: false
